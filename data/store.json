@@ -1,0 +1,4724 @@
+{
+  "websites": [
+    {
+      "id": "b22267b3-5542-4544-876a-35ea1b327b97",
+      "name": "RUPIAHTOTO",
+      "url": "https://rupiahtoto.net/",
+      "markets": [
+        {
+          "name": "TAIWAN POOL",
+          "id": "p8291",
+          "code": "p8291"
+        },
+        {
+          "name": "CHINA POOL",
+          "id": "p8293",
+          "code": "p8293"
+        },
+        {
+          "name": "CAMBODIA POOL",
+          "id": "p8299",
+          "code": "p8299"
+        },
+        {
+          "name": "MOROCCO POOL",
+          "id": "p9234",
+          "code": "p9234"
+        },
+        {
+          "name": "CALIFORNIA POOL",
+          "id": "p11199",
+          "code": "p11199"
+        },
+        {
+          "name": "TAIPEI POOL",
+          "id": "p11604",
+          "code": "p11604"
+        },
+        {
+          "name": "INDIA POOL",
+          "id": "p11605",
+          "code": "p11605"
+        },
+        {
+          "name": "THAILAND POOL",
+          "id": "p11626",
+          "code": "p11626"
+        },
+        {
+          "name": "OREGON03 POOL",
+          "id": "p11743",
+          "code": "p11743"
+        },
+        {
+          "name": "OREGON09 POOL",
+          "id": "p11745",
+          "code": "p11745"
+        },
+        {
+          "name": "OREGON12 POOL",
+          "id": "p11746",
+          "code": "p11746"
+        },
+        {
+          "name": "OREGON06 POOL",
+          "id": "p11755",
+          "code": "p11755"
+        },
+        {
+          "name": "SRILANKA POOL",
+          "id": "p7951",
+          "code": "p7951"
+        },
+        {
+          "name": "TOTO MACAU POOL",
+          "id": "m17",
+          "code": "m17"
+        },
+        {
+          "name": "VIETNAM POOL",
+          "id": "p12857",
+          "code": "p12857"
+        },
+        {
+          "name": "NEVADA POOL",
+          "id": "p13895",
+          "code": "p13895"
+        },
+        {
+          "name": "POIPET12 POOL",
+          "id": "p14110",
+          "code": "p14110"
+        },
+        {
+          "name": "POIPET15 POOL",
+          "id": "p14111",
+          "code": "p14111"
+        },
+        {
+          "name": "POIPET19 POOL",
+          "id": "p14112",
+          "code": "p14112"
+        },
+        {
+          "name": "POIPET22 POOL",
+          "id": "p14113",
+          "code": "p14113"
+        },
+        {
+          "name": "KENTUCKYMID POOL",
+          "id": "p14274",
+          "code": "p14274"
+        },
+        {
+          "name": "FLORIDAMID POOL",
+          "id": "p14275",
+          "code": "p14275"
+        },
+        {
+          "name": "NEWYORKMID POOL",
+          "id": "p14276",
+          "code": "p14276"
+        },
+        {
+          "name": "FLORIDAEVE POOL",
+          "id": "p14277",
+          "code": "p14277"
+        },
+        {
+          "name": "NEWYORKEVE POOL",
+          "id": "p14278",
+          "code": "p14278"
+        },
+        {
+          "name": "KENTUCKYEVE POOL",
+          "id": "p14279",
+          "code": "p14279"
+        },
+        {
+          "name": "CAROLINAEVE POOL",
+          "id": "p14280",
+          "code": "p14280"
+        },
+        {
+          "name": "JEPANG POOL",
+          "id": "p14646",
+          "code": "p14646"
+        },
+        {
+          "name": "JAKARTA1400 POOL",
+          "id": "p14892",
+          "code": "p14892"
+        },
+        {
+          "name": "JAKARTA2330 POOL",
+          "id": "p14893",
+          "code": "p14893"
+        },
+        {
+          "name": "TOTOMALI1530 POOL",
+          "id": "p14894",
+          "code": "p14894"
+        },
+        {
+          "name": "TOTOMALI2030 POOL",
+          "id": "p14895",
+          "code": "p14895"
+        },
+        {
+          "name": "TOTOMALI2330 POOL",
+          "id": "p14896",
+          "code": "p14896"
+        },
+        {
+          "name": "JOWO0900 POOL",
+          "id": "p14898",
+          "code": "p14898"
+        },
+        {
+          "name": "JOWO2100 POOL",
+          "id": "p14899",
+          "code": "p14899"
+        },
+        {
+          "name": "PCSO POOL",
+          "id": "p14912",
+          "code": "p14912"
+        },
+        {
+          "name": "SYDNEY",
+          "id": "p4210",
+          "code": "p4210"
+        },
+        {
+          "name": "SINGAPORE POOL",
+          "id": "p4211",
+          "code": "p4211"
+        },
+        {
+          "name": "HONGKONG",
+          "id": "p4214",
+          "code": "p4214"
+        },
+        {
+          "name": "CAROLINADAY POOL",
+          "id": "p4215",
+          "code": "p4215"
+        },
+        {
+          "name": "ANDORRA POOL",
+          "id": "p4708",
+          "code": "p4708"
+        },
+        {
+          "name": "BRUNEI POOL",
+          "id": "p4709",
+          "code": "p4709"
+        },
+        {
+          "name": "VEGAS POOL",
+          "id": "p5336",
+          "code": "p5336"
+        },
+        {
+          "name": "JAIPUR POOL",
+          "id": "p5453",
+          "code": "p5453"
+        },
+        {
+          "name": "DUBAI POOL",
+          "id": "p5739",
+          "code": "p5739"
+        },
+        {
+          "name": "HEAD TAIL",
+          "id": "m10",
+          "code": "m10"
+        },
+        {
+          "name": "RED WHITE",
+          "id": "m11",
+          "code": "m11"
+        },
+        {
+          "name": "BILLIARDS",
+          "id": "m13",
+          "code": "m13"
+        },
+        {
+          "name": "POKER DICE",
+          "id": "m14",
+          "code": "m14"
+        },
+        {
+          "name": "EUROPE POKER DICE",
+          "id": "m14b",
+          "code": "m14b"
+        },
+        {
+          "name": "GONG BALL",
+          "id": "m16",
+          "code": "m16"
+        },
+        {
+          "name": "SPIN SOCCER",
+          "id": "x1",
+          "code": "x1"
+        },
+        {
+          "name": "24D",
+          "id": "p6",
+          "code": "p6"
+        },
+        {
+          "name": "24D JACKPOT",
+          "id": "p6b",
+          "code": "p6b"
+        },
+        {
+          "name": "ROULETTE",
+          "id": "p7",
+          "code": "p7"
+        },
+        {
+          "name": "ROULETTE 2 - FAST",
+          "id": "p7b",
+          "code": "p7b"
+        },
+        {
+          "name": "BINGO ROULETTE",
+          "id": "p7c",
+          "code": "p7c"
+        },
+        {
+          "name": "EUROPE ROULETTE 1",
+          "id": "p7d",
+          "code": "p7d"
+        },
+        {
+          "name": "SOCCER ROULETTE",
+          "id": "p7e",
+          "code": "p7e"
+        },
+        {
+          "name": "BOUNCE ROULETTE",
+          "id": "p7f",
+          "code": "p7f"
+        },
+        {
+          "name": "EUROPE ROULETTE 2",
+          "id": "p7g",
+          "code": "p7g"
+        },
+        {
+          "name": "12D",
+          "id": "p9",
+          "code": "p9"
+        },
+        {
+          "name": "12D THUNDER",
+          "id": "p9b",
+          "code": "p9b"
+        },
+        {
+          "name": "SUWIT",
+          "id": "m19",
+          "code": "m19"
+        },
+        {
+          "name": "EUROPE SUWIT",
+          "id": "m19b",
+          "code": "m19b"
+        },
+        {
+          "name": "MONOPOLY",
+          "id": "m20",
+          "code": "m20"
+        },
+        {
+          "name": "BACCARAT",
+          "id": "m22",
+          "code": "m22"
+        },
+        {
+          "name": "EUROPE BACCARAT",
+          "id": "m22d",
+          "code": "m22d"
+        },
+        {
+          "name": "EUROPE BACCARAT 2",
+          "id": "m22f",
+          "code": "m22f"
+        },
+        {
+          "name": "DRAGON TIGER",
+          "id": "m23",
+          "code": "m23"
+        },
+        {
+          "name": "DRAGON TIGER WILD",
+          "id": "m23b",
+          "code": "m23b"
+        },
+        {
+          "name": "EUROPE DRAGON TIGER",
+          "id": "m23d",
+          "code": "m23d"
+        },
+        {
+          "name": "NIU NIU",
+          "id": "m24",
+          "code": "m24"
+        },
+        {
+          "name": "FANTAN",
+          "id": "m25",
+          "code": "m25"
+        },
+        {
+          "name": "RACE BALL",
+          "id": "m26",
+          "code": "m26"
+        },
+        {
+          "name": "SHIO FIGHTS",
+          "id": "m27",
+          "code": "m27"
+        },
+        {
+          "name": "IDN 4 STAND",
+          "id": "m28",
+          "code": "m28"
+        },
+        {
+          "name": "IDN 4 STAND 2",
+          "id": "m28b",
+          "code": "m28b"
+        },
+        {
+          "name": "3D SHIO",
+          "id": "m29",
+          "code": "m29"
+        },
+        {
+          "name": "5D BALL",
+          "id": "m30",
+          "code": "m30"
+        },
+        {
+          "name": "SICBO BALL - FAST",
+          "id": "m31",
+          "code": "m31"
+        },
+        {
+          "name": "GONG BALL JITU",
+          "id": "m33",
+          "code": "m33"
+        },
+        {
+          "name": "48D",
+          "id": "m35",
+          "code": "m35"
+        },
+        {
+          "name": "BINGO SICBO",
+          "id": "m37",
+          "code": "m37"
+        },
+        {
+          "name": "DUEL DICE",
+          "id": "m39",
+          "code": "m39"
+        },
+        {
+          "name": "XOC DIA",
+          "id": "m40",
+          "code": "m40"
+        },
+        {
+          "name": "DOMINO LIVE",
+          "id": "m41",
+          "code": "m41"
+        },
+        {
+          "name": "GRAND PRIX",
+          "id": "m42",
+          "code": "m42"
+        },
+        {
+          "name": "NEW GRAND PRIX",
+          "id": "m42b",
+          "code": "m42b"
+        },
+        {
+          "name": "6D COLOR",
+          "id": "m43",
+          "code": "m43"
+        },
+        {
+          "name": "LUCKY TWIST",
+          "id": "m44",
+          "code": "m44"
+        },
+        {
+          "name": "9 PUTTS",
+          "id": "m45",
+          "code": "m45"
+        },
+        {
+          "name": "EUROPE CEME",
+          "id": "m46",
+          "code": "m46"
+        },
+        {
+          "name": "PHOENIX VS DRAGON",
+          "id": "m48",
+          "code": "m48"
+        },
+        {
+          "name": "CHECKMATE RUSH",
+          "id": "m49",
+          "code": "m49"
+        },
+        {
+          "name": "LIVE PLINKO",
+          "id": "m500",
+          "code": "m500"
+        },
+        {
+          "name": "TOTO MACAO 5D",
+          "id": "m51",
+          "code": "m51"
+        },
+        {
+          "name": "24DSPIN",
+          "id": "m6",
+          "code": "m6"
+        },
+        {
+          "name": "OGLOK",
+          "id": "m7",
+          "code": "m7"
+        },
+        {
+          "name": "DICE 6",
+          "id": "m8",
+          "code": "m8"
+        },
+        {
+          "name": "KING KONG 4D",
+          "id": "m83",
+          "code": "m83"
+        },
+        {
+          "name": "DICE 6 FEVER",
+          "id": "m8b",
+          "code": "m8b"
+        },
+        {
+          "name": "SICBO DICE",
+          "id": "p12",
+          "code": "p12"
+        }
+      ],
+      "connectionStatus": "unverified",
+      "syncStatus": "not_configured",
+      "hasSession": false,
+      "note": "Siap. Tinggal update URL agent + Session Agent di dashboard Railway."
+    },
+    {
+      "id": "616d124f-a067-4968-b01e-5b10acc72523",
+      "name": "OMTOGEL",
+      "url": "https://omtogel.com/",
+      "markets": [
+        {
+          "name": "SRILANKA POOL",
+          "id": "p7952",
+          "code": "p7952"
+        },
+        {
+          "name": "TAIWAN POOL",
+          "id": "p8294",
+          "code": "p8294"
+        },
+        {
+          "name": "CHINA POOL",
+          "id": "p8296",
+          "code": "p8296"
+        },
+        {
+          "name": "CAMBODIA POOL",
+          "id": "p8300",
+          "code": "p8300"
+        },
+        {
+          "name": "MOROCCO POOL",
+          "id": "p9233",
+          "code": "p9233"
+        },
+        {
+          "name": "TOTO MACAU POOL",
+          "id": "m17",
+          "code": "m17"
+        },
+        {
+          "name": "VIETNAM POOL",
+          "id": "p12858",
+          "code": "p12858"
+        },
+        {
+          "name": "NEVADA POOL",
+          "id": "p19565",
+          "code": "p19565"
+        },
+        {
+          "name": "POIPET12 POOL",
+          "id": "p19566",
+          "code": "p19566"
+        },
+        {
+          "name": "POIPET15 POOL",
+          "id": "p19567",
+          "code": "p19567"
+        },
+        {
+          "name": "POIPET19 POOL",
+          "id": "p19568",
+          "code": "p19568"
+        },
+        {
+          "name": "POIPET22 POOL",
+          "id": "p19569",
+          "code": "p19569"
+        },
+        {
+          "name": "KENTUCKYMID POOL",
+          "id": "p23444",
+          "code": "p23444"
+        },
+        {
+          "name": "FLORIDAMID POOL",
+          "id": "p23445",
+          "code": "p23445"
+        },
+        {
+          "name": "NEWYORKMID POOL",
+          "id": "p23446",
+          "code": "p23446"
+        },
+        {
+          "name": "FLORIDAEVE POOL",
+          "id": "p23447",
+          "code": "p23447"
+        },
+        {
+          "name": "NEWYORKEVE POOL",
+          "id": "p23448",
+          "code": "p23448"
+        },
+        {
+          "name": "KENTUCKYEVE POOL",
+          "id": "p23449",
+          "code": "p23449"
+        },
+        {
+          "name": "CAROLINAEVE POOL",
+          "id": "p23450",
+          "code": "p23450"
+        },
+        {
+          "name": "JEPANG POOL",
+          "id": "p27888",
+          "code": "p27888"
+        },
+        {
+          "name": "JAKARTA1400 POOL",
+          "id": "p28845",
+          "code": "p28845"
+        },
+        {
+          "name": "JAKARTA2330 POOL",
+          "id": "p28846",
+          "code": "p28846"
+        },
+        {
+          "name": "TOTOMALI1530 POOL",
+          "id": "p28847",
+          "code": "p28847"
+        },
+        {
+          "name": "TOTOMALI2030 POOL",
+          "id": "p28848",
+          "code": "p28848"
+        },
+        {
+          "name": "TOTOMALI2330 POOL",
+          "id": "p28849",
+          "code": "p28849"
+        },
+        {
+          "name": "JOWO0900 POOL",
+          "id": "p28853",
+          "code": "p28853"
+        },
+        {
+          "name": "JOWO2100 POOL",
+          "id": "p28854",
+          "code": "p28854"
+        },
+        {
+          "name": "PCSO POOL",
+          "id": "p28902",
+          "code": "p28902"
+        },
+        {
+          "name": "CALIFORNIA POOL",
+          "id": "p11200",
+          "code": "p11200"
+        },
+        {
+          "name": "TAIPEI POOL",
+          "id": "p11606",
+          "code": "p11606"
+        },
+        {
+          "name": "INDIA POOL",
+          "id": "p11607",
+          "code": "p11607"
+        },
+        {
+          "name": "THAILAND POOL",
+          "id": "p11627",
+          "code": "p11627"
+        },
+        {
+          "name": "OREGON03 POOL",
+          "id": "p11747",
+          "code": "p11747"
+        },
+        {
+          "name": "OREGON06 POOL",
+          "id": "p11748",
+          "code": "p11748"
+        },
+        {
+          "name": "OREGON09 POOL",
+          "id": "p11749",
+          "code": "p11749"
+        },
+        {
+          "name": "OREGON12 POOL",
+          "id": "p11750",
+          "code": "p11750"
+        },
+        {
+          "name": "SINGAPURA POOL",
+          "id": "p6590",
+          "code": "p6590"
+        },
+        {
+          "name": "HONGKONG",
+          "id": "p6591",
+          "code": "p6591"
+        },
+        {
+          "name": "BRUNEI POOL",
+          "id": "p6592",
+          "code": "p6592"
+        },
+        {
+          "name": "ANDORRA POOL",
+          "id": "p6593",
+          "code": "p6593"
+        },
+        {
+          "name": "VEGAS POOL",
+          "id": "p6594",
+          "code": "p6594"
+        },
+        {
+          "name": "DUBAI POOL",
+          "id": "p6595",
+          "code": "p6595"
+        },
+        {
+          "name": "JAIPUR POOL",
+          "id": "p6596",
+          "code": "p6596"
+        },
+        {
+          "name": "CAROLINADAY POOL",
+          "id": "p6598",
+          "code": "p6598"
+        },
+        {
+          "name": "SYDNEY",
+          "id": "p6599",
+          "code": "p6599"
+        },
+        {
+          "name": "SPIN SOCCER",
+          "id": "x1",
+          "code": "x1"
+        },
+        {
+          "name": "12D THUNDER",
+          "id": "p9b",
+          "code": "p9b"
+        },
+        {
+          "name": "12D",
+          "id": "p9",
+          "code": "p9"
+        },
+        {
+          "name": "ROULETTE 2 - FAST",
+          "id": "p7b",
+          "code": "p7b"
+        },
+        {
+          "name": "BINGO ROULETTE",
+          "id": "p7c",
+          "code": "p7c"
+        },
+        {
+          "name": "EUROPE ROULETTE 1",
+          "id": "p7d",
+          "code": "p7d"
+        },
+        {
+          "name": "SOCCER ROULETTE",
+          "id": "p7e",
+          "code": "p7e"
+        },
+        {
+          "name": "BOUNCE ROULETTE",
+          "id": "p7f",
+          "code": "p7f"
+        },
+        {
+          "name": "EUROPE ROULETTE 2",
+          "id": "p7g",
+          "code": "p7g"
+        },
+        {
+          "name": "HEAD TAIL",
+          "id": "m10",
+          "code": "m10"
+        },
+        {
+          "name": "RED WHITE",
+          "id": "m11",
+          "code": "m11"
+        },
+        {
+          "name": "BILLIARDS",
+          "id": "m13",
+          "code": "m13"
+        },
+        {
+          "name": "POKER DICE",
+          "id": "m14",
+          "code": "m14"
+        },
+        {
+          "name": "EUROPE POKER DICE",
+          "id": "m14b",
+          "code": "m14b"
+        },
+        {
+          "name": "GONG BALL",
+          "id": "m16",
+          "code": "m16"
+        },
+        {
+          "name": "24D JACKPOT",
+          "id": "p6b",
+          "code": "p6b"
+        },
+        {
+          "name": "ROULETTE",
+          "id": "p7",
+          "code": "p7"
+        },
+        {
+          "name": "SICBO DICE",
+          "id": "p12",
+          "code": "p12"
+        },
+        {
+          "name": "24D",
+          "id": "p6",
+          "code": "p6"
+        },
+        {
+          "name": "SUWIT",
+          "id": "m19",
+          "code": "m19"
+        },
+        {
+          "name": "EUROPE SUWIT",
+          "id": "m19b",
+          "code": "m19b"
+        },
+        {
+          "name": "MONOPOLY",
+          "id": "m20",
+          "code": "m20"
+        },
+        {
+          "name": "BACCARAT",
+          "id": "m22",
+          "code": "m22"
+        },
+        {
+          "name": "EUROPE BACCARAT",
+          "id": "m22d",
+          "code": "m22d"
+        },
+        {
+          "name": "EUROPE BACCARAT 2",
+          "id": "m22f",
+          "code": "m22f"
+        },
+        {
+          "name": "DRAGON TIGER",
+          "id": "m23",
+          "code": "m23"
+        },
+        {
+          "name": "DRAGON TIGER WILD",
+          "id": "m23b",
+          "code": "m23b"
+        },
+        {
+          "name": "EUROPE DRAGON TIGER",
+          "id": "m23d",
+          "code": "m23d"
+        },
+        {
+          "name": "NIU NIU",
+          "id": "m24",
+          "code": "m24"
+        },
+        {
+          "name": "FANTAN",
+          "id": "m25",
+          "code": "m25"
+        },
+        {
+          "name": "RACE BALL",
+          "id": "m26",
+          "code": "m26"
+        },
+        {
+          "name": "SHIO FIGHTS",
+          "id": "m27",
+          "code": "m27"
+        },
+        {
+          "name": "IDN 4 STAND",
+          "id": "m28",
+          "code": "m28"
+        },
+        {
+          "name": "IDN 4 STAND 2",
+          "id": "m28b",
+          "code": "m28b"
+        },
+        {
+          "name": "3D SHIO",
+          "id": "m29",
+          "code": "m29"
+        },
+        {
+          "name": "5D BALL",
+          "id": "m30",
+          "code": "m30"
+        },
+        {
+          "name": "SICBO BALL - FAST",
+          "id": "m31",
+          "code": "m31"
+        },
+        {
+          "name": "GONG BALL JITU",
+          "id": "m33",
+          "code": "m33"
+        },
+        {
+          "name": "48D",
+          "id": "m35",
+          "code": "m35"
+        },
+        {
+          "name": "BINGO SICBO",
+          "id": "m37",
+          "code": "m37"
+        },
+        {
+          "name": "DUEL DICE",
+          "id": "m39",
+          "code": "m39"
+        },
+        {
+          "name": "XOC DIA",
+          "id": "m40",
+          "code": "m40"
+        },
+        {
+          "name": "DOMINO LIVE",
+          "id": "m41",
+          "code": "m41"
+        },
+        {
+          "name": "GRAND PRIX",
+          "id": "m42",
+          "code": "m42"
+        },
+        {
+          "name": "NEW GRAND PRIX",
+          "id": "m42b",
+          "code": "m42b"
+        },
+        {
+          "name": "6D COLOR",
+          "id": "m43",
+          "code": "m43"
+        },
+        {
+          "name": "9 PUTTS",
+          "id": "m45",
+          "code": "m45"
+        },
+        {
+          "name": "EUROPE CEME",
+          "id": "m46",
+          "code": "m46"
+        },
+        {
+          "name": "PHOENIX VS DRAGON",
+          "id": "m48",
+          "code": "m48"
+        },
+        {
+          "name": "CHECKMATE RUSH",
+          "id": "m49",
+          "code": "m49"
+        },
+        {
+          "name": "LIVE PLINKO",
+          "id": "m500",
+          "code": "m500"
+        },
+        {
+          "name": "TOTO MACAO 5D",
+          "id": "m51",
+          "code": "m51"
+        },
+        {
+          "name": "24DSPIN",
+          "id": "m6",
+          "code": "m6"
+        },
+        {
+          "name": "OGLOK",
+          "id": "m7",
+          "code": "m7"
+        },
+        {
+          "name": "DICE 6",
+          "id": "m8",
+          "code": "m8"
+        },
+        {
+          "name": "KING KONG 4D",
+          "id": "m83",
+          "code": "m83"
+        },
+        {
+          "name": "DICE 6 FEVER",
+          "id": "m8b",
+          "code": "m8b"
+        }
+      ],
+      "connectionStatus": "unverified",
+      "syncStatus": "not_configured",
+      "hasSession": false,
+      "note": "Siap. Tinggal update URL agent + Session Agent di dashboard Railway."
+    },
+    {
+      "id": "bfa186bf-83c5-4c67-94a1-77221245d6c1",
+      "name": "MUSIMTOGEL",
+      "url": "https://musimtogelpov.com/",
+      "markets": [
+        {
+          "name": "4D TOTO MACAU POOL",
+          "id": "m17",
+          "code": "m17"
+        },
+        {
+          "name": "CAMBODIA POOL",
+          "id": "p13335",
+          "code": "p13335"
+        },
+        {
+          "name": "SYDNEY",
+          "id": "p13336",
+          "code": "p13336"
+        },
+        {
+          "name": "CHINA POOL",
+          "id": "p13337",
+          "code": "p13337"
+        },
+        {
+          "name": "JAPAN POOL",
+          "id": "p13338",
+          "code": "p13338"
+        },
+        {
+          "name": "SINGAPORE POOL",
+          "id": "p13339",
+          "code": "p13339"
+        },
+        {
+          "name": "TAIWAN POOL",
+          "id": "p13340",
+          "code": "p13340"
+        },
+        {
+          "name": "BRUNEI POOL",
+          "id": "p13341",
+          "code": "p13341"
+        },
+        {
+          "name": "ANDORRA POOL",
+          "id": "p13342",
+          "code": "p13342"
+        },
+        {
+          "name": "VEGAS POOL",
+          "id": "p13343",
+          "code": "p13343"
+        },
+        {
+          "name": "DUBAI POOL",
+          "id": "p13344",
+          "code": "p13344"
+        },
+        {
+          "name": "JAIPUR POOL",
+          "id": "p13345",
+          "code": "p13345"
+        },
+        {
+          "name": "CAROLINADAY POOL",
+          "id": "p13346",
+          "code": "p13346"
+        },
+        {
+          "name": "SRILANKA POOL",
+          "id": "p13347",
+          "code": "p13347"
+        },
+        {
+          "name": "MOROCCO POOL",
+          "id": "p13348",
+          "code": "p13348"
+        },
+        {
+          "name": "CALIFORNIA POOL",
+          "id": "p13349",
+          "code": "p13349"
+        },
+        {
+          "name": "INDIA POOL",
+          "id": "p13350",
+          "code": "p13350"
+        },
+        {
+          "name": "THAILAND POOL",
+          "id": "p13351",
+          "code": "p13351"
+        },
+        {
+          "name": "VIETNAM POOL",
+          "id": "p13352",
+          "code": "p13352"
+        },
+        {
+          "name": "OREGON03 POOL",
+          "id": "p13353",
+          "code": "p13353"
+        },
+        {
+          "name": "OREGON06 POOL",
+          "id": "p13354",
+          "code": "p13354"
+        },
+        {
+          "name": "OREGON09 POOL",
+          "id": "p13355",
+          "code": "p13355"
+        },
+        {
+          "name": "OREGON12 POOL",
+          "id": "p13356",
+          "code": "p13356"
+        },
+        {
+          "name": "HONGKONG",
+          "id": "p13357",
+          "code": "p13357"
+        },
+        {
+          "name": "TAIPEI POOL",
+          "id": "p13358",
+          "code": "p13358"
+        },
+        {
+          "name": "KENTUCKYMID POOL",
+          "id": "p13359",
+          "code": "p13359"
+        },
+        {
+          "name": "FLORIDAMID POOL",
+          "id": "p13360",
+          "code": "p13360"
+        },
+        {
+          "name": "NEWYORKMID POOL",
+          "id": "p13361",
+          "code": "p13361"
+        },
+        {
+          "name": "FLORIDAEVE POOL",
+          "id": "p13362",
+          "code": "p13362"
+        },
+        {
+          "name": "NEWYORKEVE POOL",
+          "id": "p13363",
+          "code": "p13363"
+        },
+        {
+          "name": "KENTUCKYEVE POOL",
+          "id": "p13364",
+          "code": "p13364"
+        },
+        {
+          "name": "CAROLINAEVE POOL",
+          "id": "p13365",
+          "code": "p13365"
+        },
+        {
+          "name": "POIPET 12 POOL",
+          "id": "p13366",
+          "code": "p13366"
+        },
+        {
+          "name": "POIPET 15 POOL",
+          "id": "p13367",
+          "code": "p13367"
+        },
+        {
+          "name": "POIPET 19 POOL",
+          "id": "p13368",
+          "code": "p13368"
+        },
+        {
+          "name": "POIPET 22 POOL",
+          "id": "p13369",
+          "code": "p13369"
+        },
+        {
+          "name": "NEVADA POOL",
+          "id": "p13370",
+          "code": "p13370"
+        },
+        {
+          "name": "JAKARTA1400 POOL",
+          "id": "p17105",
+          "code": "p17105"
+        },
+        {
+          "name": "JAKARTA2330 POOL",
+          "id": "p17106",
+          "code": "p17106"
+        },
+        {
+          "name": "TOTOMALI1530 POOL",
+          "id": "p17107",
+          "code": "p17107"
+        },
+        {
+          "name": "TOTOMALI2030 POOL",
+          "id": "p17108",
+          "code": "p17108"
+        },
+        {
+          "name": "TOTOMALI2330 POOL",
+          "id": "p17109",
+          "code": "p17109"
+        },
+        {
+          "name": "JOWO0900 POOL",
+          "id": "p17132",
+          "code": "p17132"
+        },
+        {
+          "name": "JOWO2100 POOL",
+          "id": "p17133",
+          "code": "p17133"
+        },
+        {
+          "name": "PCSO POOL",
+          "id": "p17910",
+          "code": "p17910"
+        },
+        {
+          "name": "HEAD TAIL",
+          "id": "m10",
+          "code": "m10"
+        },
+        {
+          "name": "RED WHITE",
+          "id": "m11",
+          "code": "m11"
+        },
+        {
+          "name": "BILLIARDS",
+          "id": "m13",
+          "code": "m13"
+        },
+        {
+          "name": "POKER DICE",
+          "id": "m14",
+          "code": "m14"
+        },
+        {
+          "name": "EUROPE POKER DICE",
+          "id": "m14b",
+          "code": "m14b"
+        },
+        {
+          "name": "GONG BALL",
+          "id": "m16",
+          "code": "m16"
+        },
+        {
+          "name": "SPIN SOCCER",
+          "id": "x1",
+          "code": "x1"
+        },
+        {
+          "name": "24D",
+          "id": "p6",
+          "code": "p6"
+        },
+        {
+          "name": "24D JACKPOT",
+          "id": "p6b",
+          "code": "p6b"
+        },
+        {
+          "name": "ROULETTE",
+          "id": "p7",
+          "code": "p7"
+        },
+        {
+          "name": "ROULETTE 2 - FAST",
+          "id": "p7b",
+          "code": "p7b"
+        },
+        {
+          "name": "BINGO ROULETTE",
+          "id": "p7c",
+          "code": "p7c"
+        },
+        {
+          "name": "EUROPE ROULETTE 1",
+          "id": "p7d",
+          "code": "p7d"
+        },
+        {
+          "name": "SOCCER ROULETTE",
+          "id": "p7e",
+          "code": "p7e"
+        },
+        {
+          "name": "BOUNCE ROULETTE",
+          "id": "p7f",
+          "code": "p7f"
+        },
+        {
+          "name": "EUROPE ROULETTE 2",
+          "id": "p7g",
+          "code": "p7g"
+        },
+        {
+          "name": "12D",
+          "id": "p9",
+          "code": "p9"
+        },
+        {
+          "name": "12D THUNDER",
+          "id": "p9b",
+          "code": "p9b"
+        },
+        {
+          "name": "SUWIT",
+          "id": "m19",
+          "code": "m19"
+        },
+        {
+          "name": "EUROPE SUWIT",
+          "id": "m19b",
+          "code": "m19b"
+        },
+        {
+          "name": "MONOPOLY",
+          "id": "m20",
+          "code": "m20"
+        },
+        {
+          "name": "BACCARAT",
+          "id": "m22",
+          "code": "m22"
+        },
+        {
+          "name": "EUROPE BACCARAT",
+          "id": "m22d",
+          "code": "m22d"
+        },
+        {
+          "name": "EUROPE BACCARAT 2",
+          "id": "m22f",
+          "code": "m22f"
+        },
+        {
+          "name": "DRAGON TIGER",
+          "id": "m23",
+          "code": "m23"
+        },
+        {
+          "name": "DRAGON TIGER WILD",
+          "id": "m23b",
+          "code": "m23b"
+        },
+        {
+          "name": "EUROPE DRAGON TIGER",
+          "id": "m23d",
+          "code": "m23d"
+        },
+        {
+          "name": "NIU NIU",
+          "id": "m24",
+          "code": "m24"
+        },
+        {
+          "name": "FANTAN",
+          "id": "m25",
+          "code": "m25"
+        },
+        {
+          "name": "RACE BALL",
+          "id": "m26",
+          "code": "m26"
+        },
+        {
+          "name": "SHIO FIGHTS",
+          "id": "m27",
+          "code": "m27"
+        },
+        {
+          "name": "IDN 4 STAND",
+          "id": "m28",
+          "code": "m28"
+        },
+        {
+          "name": "IDN 4 STAND 2",
+          "id": "m28b",
+          "code": "m28b"
+        },
+        {
+          "name": "3D SHIO",
+          "id": "m29",
+          "code": "m29"
+        },
+        {
+          "name": "5D BALL",
+          "id": "m30",
+          "code": "m30"
+        },
+        {
+          "name": "SICBO BALL - FAST",
+          "id": "m31",
+          "code": "m31"
+        },
+        {
+          "name": "GONG BALL JITU",
+          "id": "m33",
+          "code": "m33"
+        },
+        {
+          "name": "48D",
+          "id": "m35",
+          "code": "m35"
+        },
+        {
+          "name": "BINGO SICBO",
+          "id": "m37",
+          "code": "m37"
+        },
+        {
+          "name": "DUEL DICE",
+          "id": "m39",
+          "code": "m39"
+        },
+        {
+          "name": "XOC DIA",
+          "id": "m40",
+          "code": "m40"
+        },
+        {
+          "name": "DOMINO LIVE",
+          "id": "m41",
+          "code": "m41"
+        },
+        {
+          "name": "GRAND PRIX",
+          "id": "m42",
+          "code": "m42"
+        },
+        {
+          "name": "NEW GRAND PRIX",
+          "id": "m42b",
+          "code": "m42b"
+        },
+        {
+          "name": "6D COLOR",
+          "id": "m43",
+          "code": "m43"
+        },
+        {
+          "name": "9 PUTTS",
+          "id": "m45",
+          "code": "m45"
+        },
+        {
+          "name": "EUROPE CEME",
+          "id": "m46",
+          "code": "m46"
+        },
+        {
+          "name": "PHOENIX VS DRAGON",
+          "id": "m48",
+          "code": "m48"
+        },
+        {
+          "name": "CHECKMATE RUSH",
+          "id": "m49",
+          "code": "m49"
+        },
+        {
+          "name": "LIVE PLINKO",
+          "id": "m500",
+          "code": "m500"
+        },
+        {
+          "name": "TOTO MACAO 5D",
+          "id": "m51",
+          "code": "m51"
+        },
+        {
+          "name": "24DSPIN",
+          "id": "m6",
+          "code": "m6"
+        },
+        {
+          "name": "OGLOK",
+          "id": "m7",
+          "code": "m7"
+        },
+        {
+          "name": "DICE 6",
+          "id": "m8",
+          "code": "m8"
+        },
+        {
+          "name": "KING KONG 4D",
+          "id": "m83",
+          "code": "m83"
+        },
+        {
+          "name": "DICE 6 FEVER",
+          "id": "m8b",
+          "code": "m8b"
+        },
+        {
+          "name": "SICBO DICE",
+          "id": "p12",
+          "code": "p12"
+        }
+      ],
+      "connectionStatus": "unverified",
+      "syncStatus": "not_configured",
+      "hasSession": false,
+      "note": "Siap. Tinggal update URL agent + Session Agent di dashboard Railway."
+    },
+    {
+      "id": "60d15fef-19de-4b8b-a50e-9905b09395d4",
+      "name": "DENTOTO",
+      "url": "https://dentotobank.com/",
+      "markets": [
+        {
+          "name": "TOTO MACAU POOL",
+          "id": "m17",
+          "code": "m17"
+        },
+        {
+          "name": "CAMBODIA POOL",
+          "id": "p17268",
+          "code": "p17268"
+        },
+        {
+          "name": "SYDNEY",
+          "id": "p17269",
+          "code": "p17269"
+        },
+        {
+          "name": "CHINA POOL",
+          "id": "p17270",
+          "code": "p17270"
+        },
+        {
+          "name": "SINGAPORE POOL",
+          "id": "p17272",
+          "code": "p17272"
+        },
+        {
+          "name": "TAIWAN POOL",
+          "id": "p17273",
+          "code": "p17273"
+        },
+        {
+          "name": "BRUNEI POOL",
+          "id": "p17274",
+          "code": "p17274"
+        },
+        {
+          "name": "ANDORRA POOL",
+          "id": "p17275",
+          "code": "p17275"
+        },
+        {
+          "name": "VEGAS POOL",
+          "id": "p17276",
+          "code": "p17276"
+        },
+        {
+          "name": "DUBAI POOL",
+          "id": "p17277",
+          "code": "p17277"
+        },
+        {
+          "name": "JAIPUR POOL",
+          "id": "p17278",
+          "code": "p17278"
+        },
+        {
+          "name": "CAROLINADAY POOL",
+          "id": "p17279",
+          "code": "p17279"
+        },
+        {
+          "name": "SRILANKA POOL",
+          "id": "p17280",
+          "code": "p17280"
+        },
+        {
+          "name": "MOROCCO POOL",
+          "id": "p17281",
+          "code": "p17281"
+        },
+        {
+          "name": "CALIFORNIA POOL",
+          "id": "p17282",
+          "code": "p17282"
+        },
+        {
+          "name": "INDIA POOL",
+          "id": "p17283",
+          "code": "p17283"
+        },
+        {
+          "name": "THAILAND POOL",
+          "id": "p17284",
+          "code": "p17284"
+        },
+        {
+          "name": "VIETNAM POOL",
+          "id": "p17285",
+          "code": "p17285"
+        },
+        {
+          "name": "OREGON03 POOL",
+          "id": "p17286",
+          "code": "p17286"
+        },
+        {
+          "name": "OREGON06 POOL",
+          "id": "p17287",
+          "code": "p17287"
+        },
+        {
+          "name": "OREGON09 POOL",
+          "id": "p17288",
+          "code": "p17288"
+        },
+        {
+          "name": "OREGON12 POOL",
+          "id": "p17289",
+          "code": "p17289"
+        },
+        {
+          "name": "HONGKONG",
+          "id": "p17302",
+          "code": "p17302"
+        },
+        {
+          "name": "TAIPEI POOL",
+          "id": "p17413",
+          "code": "p17413"
+        },
+        {
+          "name": "KENTUCKYMID POOL",
+          "id": "p23667",
+          "code": "p23667"
+        },
+        {
+          "name": "FLORIDAMID POOL",
+          "id": "p23668",
+          "code": "p23668"
+        },
+        {
+          "name": "NEWYORKMID POOL",
+          "id": "p23669",
+          "code": "p23669"
+        },
+        {
+          "name": "FLORIDAEVE POOL",
+          "id": "p23670",
+          "code": "p23670"
+        },
+        {
+          "name": "NEWYORKEVE POOL",
+          "id": "p23671",
+          "code": "p23671"
+        },
+        {
+          "name": "KENTUCKYEVE POOL",
+          "id": "p23672",
+          "code": "p23672"
+        },
+        {
+          "name": "CAROLINAEVE POOL",
+          "id": "p23673",
+          "code": "p23673"
+        },
+        {
+          "name": "POIPET 12 POOL",
+          "id": "p23689",
+          "code": "p23689"
+        },
+        {
+          "name": "POIPET 15 POOL",
+          "id": "p23690",
+          "code": "p23690"
+        },
+        {
+          "name": "POIPET 19 POOL",
+          "id": "p23691",
+          "code": "p23691"
+        },
+        {
+          "name": "POIPET 22 POOL",
+          "id": "p23692",
+          "code": "p23692"
+        },
+        {
+          "name": "NEVADA POOL",
+          "id": "p23698",
+          "code": "p23698"
+        },
+        {
+          "name": "JEPANG POOL",
+          "id": "p28694",
+          "code": "p28694"
+        },
+        {
+          "name": "JAKARTA1400 POOL",
+          "id": "p31352",
+          "code": "p31352"
+        },
+        {
+          "name": "JAKARTA2330 POOL",
+          "id": "p31353",
+          "code": "p31353"
+        },
+        {
+          "name": "TOTOMALI1530 POOL",
+          "id": "p31354",
+          "code": "p31354"
+        },
+        {
+          "name": "TOTOMALI2330 POOL",
+          "id": "p31355",
+          "code": "p31355"
+        },
+        {
+          "name": "TOTOMALI2030 POOL",
+          "id": "p31356",
+          "code": "p31356"
+        },
+        {
+          "name": "JOWO0900 POOL",
+          "id": "p31380",
+          "code": "p31380"
+        },
+        {
+          "name": "JOWO2100 POOL",
+          "id": "p31381",
+          "code": "p31381"
+        },
+        {
+          "name": "PCSO POOL",
+          "id": "p31570",
+          "code": "p31570"
+        },
+        {
+          "name": "HEAD TAIL",
+          "id": "m10",
+          "code": "m10"
+        },
+        {
+          "name": "RED WHITE",
+          "id": "m11",
+          "code": "m11"
+        },
+        {
+          "name": "BILLIARDS",
+          "id": "m13",
+          "code": "m13"
+        },
+        {
+          "name": "POKER DICE",
+          "id": "m14",
+          "code": "m14"
+        },
+        {
+          "name": "EUROPE POKER DICE",
+          "id": "m14b",
+          "code": "m14b"
+        },
+        {
+          "name": "GONG BALL",
+          "id": "m16",
+          "code": "m16"
+        },
+        {
+          "name": "SPIN SOCCER",
+          "id": "x1",
+          "code": "x1"
+        },
+        {
+          "name": "24D",
+          "id": "p6",
+          "code": "p6"
+        },
+        {
+          "name": "24D JACKPOT",
+          "id": "p6b",
+          "code": "p6b"
+        },
+        {
+          "name": "ROULETTE",
+          "id": "p7",
+          "code": "p7"
+        },
+        {
+          "name": "ROULETTE 2 - FAST",
+          "id": "p7b",
+          "code": "p7b"
+        },
+        {
+          "name": "BINGO ROULETTE",
+          "id": "p7c",
+          "code": "p7c"
+        },
+        {
+          "name": "EUROPE ROULETTE 1",
+          "id": "p7d",
+          "code": "p7d"
+        },
+        {
+          "name": "SOCCER ROULETTE",
+          "id": "p7e",
+          "code": "p7e"
+        },
+        {
+          "name": "BOUNCE ROULETTE",
+          "id": "p7f",
+          "code": "p7f"
+        },
+        {
+          "name": "EUROPE ROULETTE 2",
+          "id": "p7g",
+          "code": "p7g"
+        },
+        {
+          "name": "12D",
+          "id": "p9",
+          "code": "p9"
+        },
+        {
+          "name": "12D THUNDER",
+          "id": "p9b",
+          "code": "p9b"
+        },
+        {
+          "name": "SUWIT",
+          "id": "m19",
+          "code": "m19"
+        },
+        {
+          "name": "EUROPE SUWIT",
+          "id": "m19b",
+          "code": "m19b"
+        },
+        {
+          "name": "MONOPOLY",
+          "id": "m20",
+          "code": "m20"
+        },
+        {
+          "name": "BACCARAT",
+          "id": "m22",
+          "code": "m22"
+        },
+        {
+          "name": "EUROPE BACCARAT",
+          "id": "m22d",
+          "code": "m22d"
+        },
+        {
+          "name": "EUROPE BACCARAT 2",
+          "id": "m22f",
+          "code": "m22f"
+        },
+        {
+          "name": "DRAGON TIGER",
+          "id": "m23",
+          "code": "m23"
+        },
+        {
+          "name": "DRAGON TIGER WILD",
+          "id": "m23b",
+          "code": "m23b"
+        },
+        {
+          "name": "EUROPE DRAGON TIGER",
+          "id": "m23d",
+          "code": "m23d"
+        },
+        {
+          "name": "NIU NIU",
+          "id": "m24",
+          "code": "m24"
+        },
+        {
+          "name": "FANTAN",
+          "id": "m25",
+          "code": "m25"
+        },
+        {
+          "name": "RACE BALL",
+          "id": "m26",
+          "code": "m26"
+        },
+        {
+          "name": "SHIO FIGHTS",
+          "id": "m27",
+          "code": "m27"
+        },
+        {
+          "name": "IDN 4 STAND",
+          "id": "m28",
+          "code": "m28"
+        },
+        {
+          "name": "IDN 4 STAND 2",
+          "id": "m28b",
+          "code": "m28b"
+        },
+        {
+          "name": "3D SHIO",
+          "id": "m29",
+          "code": "m29"
+        },
+        {
+          "name": "5D BALL",
+          "id": "m30",
+          "code": "m30"
+        },
+        {
+          "name": "SICBO BALL - FAST",
+          "id": "m31",
+          "code": "m31"
+        },
+        {
+          "name": "GONG BALL JITU",
+          "id": "m33",
+          "code": "m33"
+        },
+        {
+          "name": "48D",
+          "id": "m35",
+          "code": "m35"
+        },
+        {
+          "name": "BINGO SICBO",
+          "id": "m37",
+          "code": "m37"
+        },
+        {
+          "name": "DUEL DICE",
+          "id": "m39",
+          "code": "m39"
+        },
+        {
+          "name": "XOC DIA",
+          "id": "m40",
+          "code": "m40"
+        },
+        {
+          "name": "DOMINO LIVE",
+          "id": "m41",
+          "code": "m41"
+        },
+        {
+          "name": "GRAND PRIX",
+          "id": "m42",
+          "code": "m42"
+        },
+        {
+          "name": "NEW GRAND PRIX",
+          "id": "m42b",
+          "code": "m42b"
+        },
+        {
+          "name": "6D COLOR",
+          "id": "m43",
+          "code": "m43"
+        },
+        {
+          "name": "LUCKY TWIST",
+          "id": "m44",
+          "code": "m44"
+        },
+        {
+          "name": "9 PUTTS",
+          "id": "m45",
+          "code": "m45"
+        },
+        {
+          "name": "EUROPE CEME",
+          "id": "m46",
+          "code": "m46"
+        },
+        {
+          "name": "PHOENIX VS DRAGON",
+          "id": "m48",
+          "code": "m48"
+        },
+        {
+          "name": "CHECKMATE RUSH",
+          "id": "m49",
+          "code": "m49"
+        },
+        {
+          "name": "LIVE PLINKO",
+          "id": "m500",
+          "code": "m500"
+        },
+        {
+          "name": "TOTO MACAO 5D",
+          "id": "m51",
+          "code": "m51"
+        },
+        {
+          "name": "24DSPIN",
+          "id": "m6",
+          "code": "m6"
+        },
+        {
+          "name": "OGLOK",
+          "id": "m7",
+          "code": "m7"
+        },
+        {
+          "name": "DICE 6",
+          "id": "m8",
+          "code": "m8"
+        },
+        {
+          "name": "KING KONG 4D",
+          "id": "m83",
+          "code": "m83"
+        },
+        {
+          "name": "DICE 6 FEVER",
+          "id": "m8b",
+          "code": "m8b"
+        },
+        {
+          "name": "SICBO DICE",
+          "id": "p12",
+          "code": "p12"
+        }
+      ],
+      "connectionStatus": "unverified",
+      "syncStatus": "not_configured",
+      "hasSession": false,
+      "note": "Siap. Tinggal update URL agent + Session Agent di dashboard Railway."
+    },
+    {
+      "id": "a4236790-2007-4f9b-b39a-9dc5df311e8e",
+      "name": "SERVERTOGEL",
+      "url": "https://servertogelindo.com/",
+      "markets": [
+        {
+          "name": "4D TOTO MACAU POOL",
+          "id": "m17",
+          "code": "m17"
+        },
+        {
+          "name": "ANDORRA POOL",
+          "id": "p20126",
+          "code": "p20126"
+        },
+        {
+          "name": "BRUNEI POOL",
+          "id": "p20127",
+          "code": "p20127"
+        },
+        {
+          "name": "TAIWAN POOL",
+          "id": "p20128",
+          "code": "p20128"
+        },
+        {
+          "name": "SINGAPORE POOL",
+          "id": "p20130",
+          "code": "p20130"
+        },
+        {
+          "name": "CHINA POOL",
+          "id": "p20131",
+          "code": "p20131"
+        },
+        {
+          "name": "SYDNEY",
+          "id": "p20132",
+          "code": "p20132"
+        },
+        {
+          "name": "CAMBODIA POOL",
+          "id": "p20133",
+          "code": "p20133"
+        },
+        {
+          "name": "THAILAND POOL",
+          "id": "p20134",
+          "code": "p20134"
+        },
+        {
+          "name": "INDIA POOL",
+          "id": "p20135",
+          "code": "p20135"
+        },
+        {
+          "name": "CALIFORNIA POOL",
+          "id": "p20136",
+          "code": "p20136"
+        },
+        {
+          "name": "MOROCCO POOL",
+          "id": "p20137",
+          "code": "p20137"
+        },
+        {
+          "name": "SRILANKA POOL",
+          "id": "p20138",
+          "code": "p20138"
+        },
+        {
+          "name": "CAROLINADAY POOL",
+          "id": "p20139",
+          "code": "p20139"
+        },
+        {
+          "name": "DUBAI POOL",
+          "id": "p20140",
+          "code": "p20140"
+        },
+        {
+          "name": "JAIPUR POOL",
+          "id": "p20141",
+          "code": "p20141"
+        },
+        {
+          "name": "VEGAS POOL",
+          "id": "p20142",
+          "code": "p20142"
+        },
+        {
+          "name": "TAIPEI POOL",
+          "id": "p20143",
+          "code": "p20143"
+        },
+        {
+          "name": "HONGKONG",
+          "id": "p20144",
+          "code": "p20144"
+        },
+        {
+          "name": "OREGON12 POOL",
+          "id": "p20145",
+          "code": "p20145"
+        },
+        {
+          "name": "OREGON09 POOL",
+          "id": "p20146",
+          "code": "p20146"
+        },
+        {
+          "name": "OREGON06 POOL",
+          "id": "p20147",
+          "code": "p20147"
+        },
+        {
+          "name": "OREGON03 POOL",
+          "id": "p20148",
+          "code": "p20148"
+        },
+        {
+          "name": "VIETNAM POOL",
+          "id": "p20149",
+          "code": "p20149"
+        },
+        {
+          "name": "KENTUCKYMID POOL",
+          "id": "p23674",
+          "code": "p23674"
+        },
+        {
+          "name": "FLORIDAMID POOL",
+          "id": "p23675",
+          "code": "p23675"
+        },
+        {
+          "name": "NEWYORKMID POOL",
+          "id": "p23676",
+          "code": "p23676"
+        },
+        {
+          "name": "FLORIDAEVE POOL",
+          "id": "p23677",
+          "code": "p23677"
+        },
+        {
+          "name": "NEWYORKEVE POOL",
+          "id": "p23678",
+          "code": "p23678"
+        },
+        {
+          "name": "KENTUCKYEVE POOL",
+          "id": "p23679",
+          "code": "p23679"
+        },
+        {
+          "name": "CAROLINAEVE POOL",
+          "id": "p23680",
+          "code": "p23680"
+        },
+        {
+          "name": "POIPET 12 POOL",
+          "id": "p23681",
+          "code": "p23681"
+        },
+        {
+          "name": "POIPET 15 POOL",
+          "id": "p23682",
+          "code": "p23682"
+        },
+        {
+          "name": "POIPET 19 POOL",
+          "id": "p23683",
+          "code": "p23683"
+        },
+        {
+          "name": "POIPET 22 POOL",
+          "id": "p23684",
+          "code": "p23684"
+        },
+        {
+          "name": "NEVADA POOL",
+          "id": "p23700",
+          "code": "p23700"
+        },
+        {
+          "name": "JEPANG POOL",
+          "id": "p28695",
+          "code": "p28695"
+        },
+        {
+          "name": "JAKARTA1400 POOL",
+          "id": "p31367",
+          "code": "p31367"
+        },
+        {
+          "name": "JAKARTA2330 POOL",
+          "id": "p31368",
+          "code": "p31368"
+        },
+        {
+          "name": "TOTOMALI1530 POOL",
+          "id": "p31369",
+          "code": "p31369"
+        },
+        {
+          "name": "TOTOMALI2330 POOL",
+          "id": "p31370",
+          "code": "p31370"
+        },
+        {
+          "name": "TOTOMALI2030 POOL",
+          "id": "p31371",
+          "code": "p31371"
+        },
+        {
+          "name": "JOWO0900 POOL",
+          "id": "p31386",
+          "code": "p31386"
+        },
+        {
+          "name": "JOWO2100 POOL",
+          "id": "p31387",
+          "code": "p31387"
+        },
+        {
+          "name": "PCSO POOL",
+          "id": "p31573",
+          "code": "p31573"
+        },
+        {
+          "name": "HEAD TAIL",
+          "id": "m10",
+          "code": "m10"
+        },
+        {
+          "name": "RED WHITE",
+          "id": "m11",
+          "code": "m11"
+        },
+        {
+          "name": "BILLIARDS",
+          "id": "m13",
+          "code": "m13"
+        },
+        {
+          "name": "POKER DICE",
+          "id": "m14",
+          "code": "m14"
+        },
+        {
+          "name": "EUROPE POKER DICE",
+          "id": "m14b",
+          "code": "m14b"
+        },
+        {
+          "name": "GONG BALL",
+          "id": "m16",
+          "code": "m16"
+        },
+        {
+          "name": "SPIN SOCCER",
+          "id": "x1",
+          "code": "x1"
+        },
+        {
+          "name": "24D",
+          "id": "p6",
+          "code": "p6"
+        },
+        {
+          "name": "24D JACKPOT",
+          "id": "p6b",
+          "code": "p6b"
+        },
+        {
+          "name": "ROULETTE",
+          "id": "p7",
+          "code": "p7"
+        },
+        {
+          "name": "ROULETTE 2 - FAST",
+          "id": "p7b",
+          "code": "p7b"
+        },
+        {
+          "name": "BINGO ROULETTE",
+          "id": "p7c",
+          "code": "p7c"
+        },
+        {
+          "name": "EUROPE ROULETTE 1",
+          "id": "p7d",
+          "code": "p7d"
+        },
+        {
+          "name": "SOCCER ROULETTE",
+          "id": "p7e",
+          "code": "p7e"
+        },
+        {
+          "name": "BOUNCE ROULETTE",
+          "id": "p7f",
+          "code": "p7f"
+        },
+        {
+          "name": "EUROPE ROULETTE 2",
+          "id": "p7g",
+          "code": "p7g"
+        },
+        {
+          "name": "12D",
+          "id": "p9",
+          "code": "p9"
+        },
+        {
+          "name": "12D THUNDER",
+          "id": "p9b",
+          "code": "p9b"
+        },
+        {
+          "name": "SUWIT",
+          "id": "m19",
+          "code": "m19"
+        },
+        {
+          "name": "EUROPE SUWIT",
+          "id": "m19b",
+          "code": "m19b"
+        },
+        {
+          "name": "MONOPOLY",
+          "id": "m20",
+          "code": "m20"
+        },
+        {
+          "name": "BACCARAT",
+          "id": "m22",
+          "code": "m22"
+        },
+        {
+          "name": "EUROPE BACCARAT",
+          "id": "m22d",
+          "code": "m22d"
+        },
+        {
+          "name": "EUROPE BACCARAT 2",
+          "id": "m22f",
+          "code": "m22f"
+        },
+        {
+          "name": "DRAGON TIGER",
+          "id": "m23",
+          "code": "m23"
+        },
+        {
+          "name": "DRAGON TIGER WILD",
+          "id": "m23b",
+          "code": "m23b"
+        },
+        {
+          "name": "EUROPE DRAGON TIGER",
+          "id": "m23d",
+          "code": "m23d"
+        },
+        {
+          "name": "NIU NIU",
+          "id": "m24",
+          "code": "m24"
+        },
+        {
+          "name": "FANTAN",
+          "id": "m25",
+          "code": "m25"
+        },
+        {
+          "name": "RACE BALL",
+          "id": "m26",
+          "code": "m26"
+        },
+        {
+          "name": "SHIO FIGHTS",
+          "id": "m27",
+          "code": "m27"
+        },
+        {
+          "name": "IDN 4 STAND",
+          "id": "m28",
+          "code": "m28"
+        },
+        {
+          "name": "IDN 4 STAND 2",
+          "id": "m28b",
+          "code": "m28b"
+        },
+        {
+          "name": "3D SHIO",
+          "id": "m29",
+          "code": "m29"
+        },
+        {
+          "name": "5D BALL",
+          "id": "m30",
+          "code": "m30"
+        },
+        {
+          "name": "SICBO BALL - FAST",
+          "id": "m31",
+          "code": "m31"
+        },
+        {
+          "name": "GONG BALL JITU",
+          "id": "m33",
+          "code": "m33"
+        },
+        {
+          "name": "48D",
+          "id": "m35",
+          "code": "m35"
+        },
+        {
+          "name": "BINGO SICBO",
+          "id": "m37",
+          "code": "m37"
+        },
+        {
+          "name": "DUEL DICE",
+          "id": "m39",
+          "code": "m39"
+        },
+        {
+          "name": "XOC DIA",
+          "id": "m40",
+          "code": "m40"
+        },
+        {
+          "name": "DOMINO LIVE",
+          "id": "m41",
+          "code": "m41"
+        },
+        {
+          "name": "GRAND PRIX",
+          "id": "m42",
+          "code": "m42"
+        },
+        {
+          "name": "NEW GRAND PRIX",
+          "id": "m42b",
+          "code": "m42b"
+        },
+        {
+          "name": "6D COLOR",
+          "id": "m43",
+          "code": "m43"
+        },
+        {
+          "name": "LUCKY TWIST",
+          "id": "m44",
+          "code": "m44"
+        },
+        {
+          "name": "9 PUTTS",
+          "id": "m45",
+          "code": "m45"
+        },
+        {
+          "name": "EUROPE CEME",
+          "id": "m46",
+          "code": "m46"
+        },
+        {
+          "name": "PHOENIX VS DRAGON",
+          "id": "m48",
+          "code": "m48"
+        },
+        {
+          "name": "CHECKMATE RUSH",
+          "id": "m49",
+          "code": "m49"
+        },
+        {
+          "name": "LIVE PLINKO",
+          "id": "m500",
+          "code": "m500"
+        },
+        {
+          "name": "TOTO MACAO 5D",
+          "id": "m51",
+          "code": "m51"
+        },
+        {
+          "name": "24DSPIN",
+          "id": "m6",
+          "code": "m6"
+        },
+        {
+          "name": "OGLOK",
+          "id": "m7",
+          "code": "m7"
+        },
+        {
+          "name": "DICE 6",
+          "id": "m8",
+          "code": "m8"
+        },
+        {
+          "name": "KING KONG 4D",
+          "id": "m83",
+          "code": "m83"
+        },
+        {
+          "name": "DICE 6 FEVER",
+          "id": "m8b",
+          "code": "m8b"
+        },
+        {
+          "name": "SICBO DICE",
+          "id": "p12",
+          "code": "p12"
+        }
+      ],
+      "connectionStatus": "unverified",
+      "syncStatus": "not_configured",
+      "hasSession": false,
+      "note": "Siap. Tinggal update URL agent + Session Agent di dashboard Railway."
+    },
+    {
+      "id": "8ec4382f-4ea7-49d2-9913-5d5c16ffd158",
+      "name": "MERDEKATOGEL",
+      "url": "https://merdekatogelidn.com/",
+      "markets": [
+        {
+          "name": "ANDORRA POOL",
+          "id": "p10808",
+          "code": "p10808"
+        },
+        {
+          "name": "BRUNEI POOL",
+          "id": "p10809",
+          "code": "p10809"
+        },
+        {
+          "name": "CAMBODIA POOL",
+          "id": "p10810",
+          "code": "p10810"
+        },
+        {
+          "name": "CAROLINADAY POOL",
+          "id": "p10811",
+          "code": "p10811"
+        },
+        {
+          "name": "CHINA POOL",
+          "id": "p10812",
+          "code": "p10812"
+        },
+        {
+          "name": "DUBAI POOL",
+          "id": "p10813",
+          "code": "p10813"
+        },
+        {
+          "name": "HONGKONG",
+          "id": "p10814",
+          "code": "p10814"
+        },
+        {
+          "name": "JAIPUR POOL",
+          "id": "p10815",
+          "code": "p10815"
+        },
+        {
+          "name": "MOROCCO POOL",
+          "id": "p10816",
+          "code": "p10816"
+        },
+        {
+          "name": "SINGAPORE POOL",
+          "id": "p10817",
+          "code": "p10817"
+        },
+        {
+          "name": "SRILANKA POOL",
+          "id": "p10818",
+          "code": "p10818"
+        },
+        {
+          "name": "SYDNEY",
+          "id": "p10819",
+          "code": "p10819"
+        },
+        {
+          "name": "TAIWAN POOL",
+          "id": "p10820",
+          "code": "p10820"
+        },
+        {
+          "name": "VEGAS POOL",
+          "id": "p10821",
+          "code": "p10821"
+        },
+        {
+          "name": "CALIFORNIA POOL",
+          "id": "p11201",
+          "code": "p11201"
+        },
+        {
+          "name": "TAIPEI POOL",
+          "id": "p11608",
+          "code": "p11608"
+        },
+        {
+          "name": "INDIA POOL",
+          "id": "p11609",
+          "code": "p11609"
+        },
+        {
+          "name": "THAILAND POOL",
+          "id": "p11628",
+          "code": "p11628"
+        },
+        {
+          "name": "OREGON03 POOL",
+          "id": "p11751",
+          "code": "p11751"
+        },
+        {
+          "name": "OREGON06 POOL",
+          "id": "p11752",
+          "code": "p11752"
+        },
+        {
+          "name": "OREGON09 POOL",
+          "id": "p11753",
+          "code": "p11753"
+        },
+        {
+          "name": "OREGON12 POOL",
+          "id": "p11754",
+          "code": "p11754"
+        },
+        {
+          "name": "TOTO MACAU POOL",
+          "id": "m17",
+          "code": "m17"
+        },
+        {
+          "name": "VIETNAM POOL",
+          "id": "p12859",
+          "code": "p12859"
+        },
+        {
+          "name": "KENTUCKYMID POOL",
+          "id": "p23653",
+          "code": "p23653"
+        },
+        {
+          "name": "FLORIDAMID POOL",
+          "id": "p23654",
+          "code": "p23654"
+        },
+        {
+          "name": "NEWYORKMID POOL",
+          "id": "p23655",
+          "code": "p23655"
+        },
+        {
+          "name": "FLORIDAEVE POOL",
+          "id": "p23656",
+          "code": "p23656"
+        },
+        {
+          "name": "NEWYORKEVE POOL",
+          "id": "p23657",
+          "code": "p23657"
+        },
+        {
+          "name": "KENTUCKYEVE POOL",
+          "id": "p23658",
+          "code": "p23658"
+        },
+        {
+          "name": "CAROLINAEVE POOL",
+          "id": "p23659",
+          "code": "p23659"
+        },
+        {
+          "name": "POIPET 12 POOL",
+          "id": "p23693",
+          "code": "p23693"
+        },
+        {
+          "name": "POIPET 15 POOL",
+          "id": "p23694",
+          "code": "p23694"
+        },
+        {
+          "name": "POIPET 19 POOL",
+          "id": "p23695",
+          "code": "p23695"
+        },
+        {
+          "name": "POIPET 22 POOL",
+          "id": "p23696",
+          "code": "p23696"
+        },
+        {
+          "name": "NEVADA POOL",
+          "id": "p23697",
+          "code": "p23697"
+        },
+        {
+          "name": "JEPANG POOL",
+          "id": "p28692",
+          "code": "p28692"
+        },
+        {
+          "name": "JAKARTA1400 POOL",
+          "id": "p31362",
+          "code": "p31362"
+        },
+        {
+          "name": "JAKARTA2330 POOL",
+          "id": "p31363",
+          "code": "p31363"
+        },
+        {
+          "name": "TOTOMALI1530 POOL",
+          "id": "p31364",
+          "code": "p31364"
+        },
+        {
+          "name": "TOTOMALI2330 POOL",
+          "id": "p31365",
+          "code": "p31365"
+        },
+        {
+          "name": "TOTOMALI2030 POOL",
+          "id": "p31366",
+          "code": "p31366"
+        },
+        {
+          "name": "JOWO0900 POOL",
+          "id": "p31384",
+          "code": "p31384"
+        },
+        {
+          "name": "JOWO2100 POOL",
+          "id": "p31385",
+          "code": "p31385"
+        },
+        {
+          "name": "PCSO POOL",
+          "id": "p31571",
+          "code": "p31571"
+        },
+        {
+          "name": "HEAD TAIL",
+          "id": "m10",
+          "code": "m10"
+        },
+        {
+          "name": "RED WHITE",
+          "id": "m11",
+          "code": "m11"
+        },
+        {
+          "name": "BILLIARDS",
+          "id": "m13",
+          "code": "m13"
+        },
+        {
+          "name": "POKER DICE",
+          "id": "m14",
+          "code": "m14"
+        },
+        {
+          "name": "EUROPE POKER DICE",
+          "id": "m14b",
+          "code": "m14b"
+        },
+        {
+          "name": "GONG BALL",
+          "id": "m16",
+          "code": "m16"
+        },
+        {
+          "name": "SPIN SOCCER",
+          "id": "x1",
+          "code": "x1"
+        },
+        {
+          "name": "SICBO DICE",
+          "id": "p12",
+          "code": "p12"
+        },
+        {
+          "name": "24D",
+          "id": "p6",
+          "code": "p6"
+        },
+        {
+          "name": "24D JACKPOT",
+          "id": "p6b",
+          "code": "p6b"
+        },
+        {
+          "name": "ROULETTE",
+          "id": "p7",
+          "code": "p7"
+        },
+        {
+          "name": "ROULETTE 2 - FAST",
+          "id": "p7b",
+          "code": "p7b"
+        },
+        {
+          "name": "BINGO ROULETTE",
+          "id": "p7c",
+          "code": "p7c"
+        },
+        {
+          "name": "EUROPE ROULETTE 1",
+          "id": "p7d",
+          "code": "p7d"
+        },
+        {
+          "name": "SOCCER ROULETTE",
+          "id": "p7e",
+          "code": "p7e"
+        },
+        {
+          "name": "BOUNCE ROULETTE",
+          "id": "p7f",
+          "code": "p7f"
+        },
+        {
+          "name": "EUROPE ROULETTE 2",
+          "id": "p7g",
+          "code": "p7g"
+        },
+        {
+          "name": "12D",
+          "id": "p9",
+          "code": "p9"
+        },
+        {
+          "name": "12D THUNDER",
+          "id": "p9b",
+          "code": "p9b"
+        },
+        {
+          "name": "SUWIT",
+          "id": "m19",
+          "code": "m19"
+        },
+        {
+          "name": "EUROPE SUWIT",
+          "id": "m19b",
+          "code": "m19b"
+        },
+        {
+          "name": "MONOPOLY",
+          "id": "m20",
+          "code": "m20"
+        },
+        {
+          "name": "BACCARAT",
+          "id": "m22",
+          "code": "m22"
+        },
+        {
+          "name": "EUROPE BACCARAT",
+          "id": "m22d",
+          "code": "m22d"
+        },
+        {
+          "name": "EUROPE BACCARAT 2",
+          "id": "m22f",
+          "code": "m22f"
+        },
+        {
+          "name": "DRAGON TIGER",
+          "id": "m23",
+          "code": "m23"
+        },
+        {
+          "name": "DRAGON TIGER WILD",
+          "id": "m23b",
+          "code": "m23b"
+        },
+        {
+          "name": "EUROPE DRAGON TIGER",
+          "id": "m23d",
+          "code": "m23d"
+        },
+        {
+          "name": "NIU NIU",
+          "id": "m24",
+          "code": "m24"
+        },
+        {
+          "name": "FANTAN",
+          "id": "m25",
+          "code": "m25"
+        },
+        {
+          "name": "RACE BALL",
+          "id": "m26",
+          "code": "m26"
+        },
+        {
+          "name": "SHIO FIGHTS",
+          "id": "m27",
+          "code": "m27"
+        },
+        {
+          "name": "IDN 4 STAND",
+          "id": "m28",
+          "code": "m28"
+        },
+        {
+          "name": "IDN 4 STAND 2",
+          "id": "m28b",
+          "code": "m28b"
+        },
+        {
+          "name": "3D SHIO",
+          "id": "m29",
+          "code": "m29"
+        },
+        {
+          "name": "5D BALL",
+          "id": "m30",
+          "code": "m30"
+        },
+        {
+          "name": "SICBO BALL - FAST",
+          "id": "m31",
+          "code": "m31"
+        },
+        {
+          "name": "GONG BALL JITU",
+          "id": "m33",
+          "code": "m33"
+        },
+        {
+          "name": "48D",
+          "id": "m35",
+          "code": "m35"
+        },
+        {
+          "name": "BINGO SICBO",
+          "id": "m37",
+          "code": "m37"
+        },
+        {
+          "name": "DUEL DICE",
+          "id": "m39",
+          "code": "m39"
+        },
+        {
+          "name": "XOC DIA",
+          "id": "m40",
+          "code": "m40"
+        },
+        {
+          "name": "DOMINO LIVE",
+          "id": "m41",
+          "code": "m41"
+        },
+        {
+          "name": "GRAND PRIX",
+          "id": "m42",
+          "code": "m42"
+        },
+        {
+          "name": "NEW GRAND PRIX",
+          "id": "m42b",
+          "code": "m42b"
+        },
+        {
+          "name": "6D COLOR",
+          "id": "m43",
+          "code": "m43"
+        },
+        {
+          "name": "LUCKY TWIST",
+          "id": "m44",
+          "code": "m44"
+        },
+        {
+          "name": "9 PUTTS",
+          "id": "m45",
+          "code": "m45"
+        },
+        {
+          "name": "EUROPE CEME",
+          "id": "m46",
+          "code": "m46"
+        },
+        {
+          "name": "PHOENIX VS DRAGON",
+          "id": "m48",
+          "code": "m48"
+        },
+        {
+          "name": "CHECKMATE RUSH",
+          "id": "m49",
+          "code": "m49"
+        },
+        {
+          "name": "LIVE PLINKO",
+          "id": "m500",
+          "code": "m500"
+        },
+        {
+          "name": "TOTO MACAO 5D",
+          "id": "m51",
+          "code": "m51"
+        },
+        {
+          "name": "24DSPIN",
+          "id": "m6",
+          "code": "m6"
+        },
+        {
+          "name": "OGLOK",
+          "id": "m7",
+          "code": "m7"
+        },
+        {
+          "name": "DICE 6",
+          "id": "m8",
+          "code": "m8"
+        },
+        {
+          "name": "KING KONG 4D",
+          "id": "m83",
+          "code": "m83"
+        },
+        {
+          "name": "DICE 6 FEVER",
+          "id": "m8b",
+          "code": "m8b"
+        }
+      ],
+      "connectionStatus": "unverified",
+      "syncStatus": "not_configured",
+      "hasSession": false,
+      "note": "Siap. Tinggal update URL agent + Session Agent di dashboard Railway."
+    },
+    {
+      "id": "dfd9237f-6c4a-4285-aeff-7f0417f92e97",
+      "name": "BINJAITOTO",
+      "url": "https://binjaitotogaming.com/",
+      "markets": [
+        {
+          "name": "TOTO MACAU POOL",
+          "id": "m17",
+          "code": "m17"
+        },
+        {
+          "name": "VIETNAM POOL",
+          "id": "p16126",
+          "code": "p16126"
+        },
+        {
+          "name": "OREGON12 POOL",
+          "id": "p16127",
+          "code": "p16127"
+        },
+        {
+          "name": "OREGON09 POOL",
+          "id": "p16128",
+          "code": "p16128"
+        },
+        {
+          "name": "OREGON06 POOL",
+          "id": "p16129",
+          "code": "p16129"
+        },
+        {
+          "name": "OREGON03 POOL",
+          "id": "p16130",
+          "code": "p16130"
+        },
+        {
+          "name": "THAILAND POOL",
+          "id": "p16131",
+          "code": "p16131"
+        },
+        {
+          "name": "INDIA POOL",
+          "id": "p16133",
+          "code": "p16133"
+        },
+        {
+          "name": "TAIPEI POOL",
+          "id": "p16134",
+          "code": "p16134"
+        },
+        {
+          "name": "CALIFORNIA POOL",
+          "id": "p16135",
+          "code": "p16135"
+        },
+        {
+          "name": "MOROCCO POOL",
+          "id": "p16136",
+          "code": "p16136"
+        },
+        {
+          "name": "CAMBODIA POOL",
+          "id": "p16137",
+          "code": "p16137"
+        },
+        {
+          "name": "CHINA POOL",
+          "id": "p16138",
+          "code": "p16138"
+        },
+        {
+          "name": "TAIWAN POOL",
+          "id": "p16139",
+          "code": "p16139"
+        },
+        {
+          "name": "SRILANKA POOL",
+          "id": "p16140",
+          "code": "p16140"
+        },
+        {
+          "name": "SYDNEY",
+          "id": "p16141",
+          "code": "p16141"
+        },
+        {
+          "name": "CAROLINADAY POOL",
+          "id": "p16142",
+          "code": "p16142"
+        },
+        {
+          "name": "JAIPUR POOL",
+          "id": "p16143",
+          "code": "p16143"
+        },
+        {
+          "name": "DUBAI POOL",
+          "id": "p16144",
+          "code": "p16144"
+        },
+        {
+          "name": "VEGAS POOL",
+          "id": "p16145",
+          "code": "p16145"
+        },
+        {
+          "name": "ANDORRA POOL",
+          "id": "p16146",
+          "code": "p16146"
+        },
+        {
+          "name": "BRUNEI POOL",
+          "id": "p16147",
+          "code": "p16147"
+        },
+        {
+          "name": "HONGKONG",
+          "id": "p16148",
+          "code": "p16148"
+        },
+        {
+          "name": "SINGAPURA POOL",
+          "id": "p16149",
+          "code": "p16149"
+        },
+        {
+          "name": "KENTUCKYMID POOL",
+          "id": "p23660",
+          "code": "p23660"
+        },
+        {
+          "name": "FLORIDAMID POOL",
+          "id": "p23661",
+          "code": "p23661"
+        },
+        {
+          "name": "NEWYORKMID POOL",
+          "id": "p23662",
+          "code": "p23662"
+        },
+        {
+          "name": "FLORIDAEVE POOL",
+          "id": "p23663",
+          "code": "p23663"
+        },
+        {
+          "name": "NEWYORKEVE POOL",
+          "id": "p23664",
+          "code": "p23664"
+        },
+        {
+          "name": "KENTUCKYEVE POOL",
+          "id": "p23665",
+          "code": "p23665"
+        },
+        {
+          "name": "CAROLINAEVE POOL",
+          "id": "p23666",
+          "code": "p23666"
+        },
+        {
+          "name": "POIPET 12 POOL",
+          "id": "p23685",
+          "code": "p23685"
+        },
+        {
+          "name": "POIPET 15 POOL",
+          "id": "p23686",
+          "code": "p23686"
+        },
+        {
+          "name": "POIPET 19 POOL",
+          "id": "p23687",
+          "code": "p23687"
+        },
+        {
+          "name": "POIPET 22 POOL",
+          "id": "p23688",
+          "code": "p23688"
+        },
+        {
+          "name": "NEVADA POOL",
+          "id": "p23699",
+          "code": "p23699"
+        },
+        {
+          "name": "JEPANG POOL",
+          "id": "p28693",
+          "code": "p28693"
+        },
+        {
+          "name": "JAKARTA1400 POOL",
+          "id": "p31357",
+          "code": "p31357"
+        },
+        {
+          "name": "JAKARTA2330 POOL",
+          "id": "p31358",
+          "code": "p31358"
+        },
+        {
+          "name": "TOTOMALI1530 POOL",
+          "id": "p31359",
+          "code": "p31359"
+        },
+        {
+          "name": "TOTOMALI2330 POOL",
+          "id": "p31360",
+          "code": "p31360"
+        },
+        {
+          "name": "TOTOMALI2030 POOL",
+          "id": "p31361",
+          "code": "p31361"
+        },
+        {
+          "name": "JOWO0900 POOL",
+          "id": "p31382",
+          "code": "p31382"
+        },
+        {
+          "name": "JOWO2100 POOL",
+          "id": "p31383",
+          "code": "p31383"
+        },
+        {
+          "name": "PCSO POOL",
+          "id": "p31572",
+          "code": "p31572"
+        },
+        {
+          "name": "HEAD TAIL",
+          "id": "m10",
+          "code": "m10"
+        },
+        {
+          "name": "RED WHITE",
+          "id": "m11",
+          "code": "m11"
+        },
+        {
+          "name": "BILLIARDS",
+          "id": "m13",
+          "code": "m13"
+        },
+        {
+          "name": "POKER DICE",
+          "id": "m14",
+          "code": "m14"
+        },
+        {
+          "name": "EUROPE POKER DICE",
+          "id": "m14b",
+          "code": "m14b"
+        },
+        {
+          "name": "GONG BALL",
+          "id": "m16",
+          "code": "m16"
+        },
+        {
+          "name": "SPIN SOCCER",
+          "id": "x1",
+          "code": "x1"
+        },
+        {
+          "name": "24D",
+          "id": "p6",
+          "code": "p6"
+        },
+        {
+          "name": "24D JACKPOT",
+          "id": "p6b",
+          "code": "p6b"
+        },
+        {
+          "name": "ROULETTE",
+          "id": "p7",
+          "code": "p7"
+        },
+        {
+          "name": "ROULETTE 2 - FAST",
+          "id": "p7b",
+          "code": "p7b"
+        },
+        {
+          "name": "BINGO ROULETTE",
+          "id": "p7c",
+          "code": "p7c"
+        },
+        {
+          "name": "EUROPE ROULETTE 1",
+          "id": "p7d",
+          "code": "p7d"
+        },
+        {
+          "name": "SOCCER ROULETTE",
+          "id": "p7e",
+          "code": "p7e"
+        },
+        {
+          "name": "BOUNCE ROULETTE",
+          "id": "p7f",
+          "code": "p7f"
+        },
+        {
+          "name": "EUROPE ROULETTE 2",
+          "id": "p7g",
+          "code": "p7g"
+        },
+        {
+          "name": "12D",
+          "id": "p9",
+          "code": "p9"
+        },
+        {
+          "name": "12D THUNDER",
+          "id": "p9b",
+          "code": "p9b"
+        },
+        {
+          "name": "SUWIT",
+          "id": "m19",
+          "code": "m19"
+        },
+        {
+          "name": "EUROPE SUWIT",
+          "id": "m19b",
+          "code": "m19b"
+        },
+        {
+          "name": "MONOPOLY",
+          "id": "m20",
+          "code": "m20"
+        },
+        {
+          "name": "BACCARAT",
+          "id": "m22",
+          "code": "m22"
+        },
+        {
+          "name": "EUROPE BACCARAT",
+          "id": "m22d",
+          "code": "m22d"
+        },
+        {
+          "name": "EUROPE BACCARAT 2",
+          "id": "m22f",
+          "code": "m22f"
+        },
+        {
+          "name": "DRAGON TIGER",
+          "id": "m23",
+          "code": "m23"
+        },
+        {
+          "name": "DRAGON TIGER WILD",
+          "id": "m23b",
+          "code": "m23b"
+        },
+        {
+          "name": "EUROPE DRAGON TIGER",
+          "id": "m23d",
+          "code": "m23d"
+        },
+        {
+          "name": "NIU NIU",
+          "id": "m24",
+          "code": "m24"
+        },
+        {
+          "name": "FANTAN",
+          "id": "m25",
+          "code": "m25"
+        },
+        {
+          "name": "RACE BALL",
+          "id": "m26",
+          "code": "m26"
+        },
+        {
+          "name": "SHIO FIGHTS",
+          "id": "m27",
+          "code": "m27"
+        },
+        {
+          "name": "IDN 4 STAND",
+          "id": "m28",
+          "code": "m28"
+        },
+        {
+          "name": "IDN 4 STAND 2",
+          "id": "m28b",
+          "code": "m28b"
+        },
+        {
+          "name": "3D SHIO",
+          "id": "m29",
+          "code": "m29"
+        },
+        {
+          "name": "5D BALL",
+          "id": "m30",
+          "code": "m30"
+        },
+        {
+          "name": "SICBO BALL - FAST",
+          "id": "m31",
+          "code": "m31"
+        },
+        {
+          "name": "GONG BALL JITU",
+          "id": "m33",
+          "code": "m33"
+        },
+        {
+          "name": "48D",
+          "id": "m35",
+          "code": "m35"
+        },
+        {
+          "name": "BINGO SICBO",
+          "id": "m37",
+          "code": "m37"
+        },
+        {
+          "name": "DUEL DICE",
+          "id": "m39",
+          "code": "m39"
+        },
+        {
+          "name": "XOC DIA",
+          "id": "m40",
+          "code": "m40"
+        },
+        {
+          "name": "DOMINO LIVE",
+          "id": "m41",
+          "code": "m41"
+        },
+        {
+          "name": "GRAND PRIX",
+          "id": "m42",
+          "code": "m42"
+        },
+        {
+          "name": "NEW GRAND PRIX",
+          "id": "m42b",
+          "code": "m42b"
+        },
+        {
+          "name": "6D COLOR",
+          "id": "m43",
+          "code": "m43"
+        },
+        {
+          "name": "LUCKY TWIST",
+          "id": "m44",
+          "code": "m44"
+        },
+        {
+          "name": "9 PUTTS",
+          "id": "m45",
+          "code": "m45"
+        },
+        {
+          "name": "EUROPE CEME",
+          "id": "m46",
+          "code": "m46"
+        },
+        {
+          "name": "PHOENIX VS DRAGON",
+          "id": "m48",
+          "code": "m48"
+        },
+        {
+          "name": "CHECKMATE RUSH",
+          "id": "m49",
+          "code": "m49"
+        },
+        {
+          "name": "LIVE PLINKO",
+          "id": "m500",
+          "code": "m500"
+        },
+        {
+          "name": "TOTO MACAO 5D",
+          "id": "m51",
+          "code": "m51"
+        },
+        {
+          "name": "24DSPIN",
+          "id": "m6",
+          "code": "m6"
+        },
+        {
+          "name": "OGLOK",
+          "id": "m7",
+          "code": "m7"
+        },
+        {
+          "name": "DICE 6",
+          "id": "m8",
+          "code": "m8"
+        },
+        {
+          "name": "KING KONG 4D",
+          "id": "m83",
+          "code": "m83"
+        },
+        {
+          "name": "DICE 6 FEVER",
+          "id": "m8b",
+          "code": "m8b"
+        },
+        {
+          "name": "SICBO DICE",
+          "id": "p12",
+          "code": "p12"
+        }
+      ],
+      "connectionStatus": "unverified",
+      "syncStatus": "not_configured",
+      "hasSession": false,
+      "note": "Siap. Tinggal update URL agent + Session Agent di dashboard Railway."
+    },
+    {
+      "id": "02d33060-187b-4553-b981-1b6727954143",
+      "name": "SOSMEDTOTO",
+      "url": "https://sosmedtotoofficial.com/",
+      "markets": [
+        {
+          "name": "JAKARTA1400 POOL",
+          "id": "p17100",
+          "code": "p17100"
+        },
+        {
+          "name": "JAKARTA2330 POOL",
+          "id": "p17101",
+          "code": "p17101"
+        },
+        {
+          "name": "TOTOMALI1530 POOL",
+          "id": "p17102",
+          "code": "p17102"
+        },
+        {
+          "name": "TOTOMALI2030 POOL",
+          "id": "p17103",
+          "code": "p17103"
+        },
+        {
+          "name": "TOTOMALI2330 POOL",
+          "id": "p17104",
+          "code": "p17104"
+        },
+        {
+          "name": "JOWO0900 POOL",
+          "id": "p17130",
+          "code": "p17130"
+        },
+        {
+          "name": "JOWO2100 POOL",
+          "id": "p17131",
+          "code": "p17131"
+        },
+        {
+          "name": "PCSO POOL",
+          "id": "p17909",
+          "code": "p17909"
+        },
+        {
+          "name": "4D TOTO MACAU POOL",
+          "id": "m17",
+          "code": "m17"
+        },
+        {
+          "name": "JEPANG POOL",
+          "id": "p8932",
+          "code": "p8932"
+        },
+        {
+          "name": "CAROLINAEVE POOL",
+          "id": "p8933",
+          "code": "p8933"
+        },
+        {
+          "name": "KENTUCKYEVE POOL",
+          "id": "p8934",
+          "code": "p8934"
+        },
+        {
+          "name": "NEWYORKEVE POOL",
+          "id": "p8935",
+          "code": "p8935"
+        },
+        {
+          "name": "FLORIDAEVE POOL",
+          "id": "p8936",
+          "code": "p8936"
+        },
+        {
+          "name": "NEWYORKMID POOL",
+          "id": "p8937",
+          "code": "p8937"
+        },
+        {
+          "name": "FLORIDAMID POOL",
+          "id": "p8938",
+          "code": "p8938"
+        },
+        {
+          "name": "KENTUCKYMID POOL",
+          "id": "p8939",
+          "code": "p8939"
+        },
+        {
+          "name": "POIPET22 POOL",
+          "id": "p8940",
+          "code": "p8940"
+        },
+        {
+          "name": "POIPET19 POOL",
+          "id": "p8941",
+          "code": "p8941"
+        },
+        {
+          "name": "POIPET15 POOL",
+          "id": "p8942",
+          "code": "p8942"
+        },
+        {
+          "name": "POIPET12 POOL",
+          "id": "p8943",
+          "code": "p8943"
+        },
+        {
+          "name": "NEVADA POOL",
+          "id": "p8944",
+          "code": "p8944"
+        },
+        {
+          "name": "VIETNAM POOL",
+          "id": "p8945",
+          "code": "p8945"
+        },
+        {
+          "name": "OREGON06 POOL",
+          "id": "p8946",
+          "code": "p8946"
+        },
+        {
+          "name": "OREGON12 POOL",
+          "id": "p8947",
+          "code": "p8947"
+        },
+        {
+          "name": "OREGON09 POOL",
+          "id": "p8948",
+          "code": "p8948"
+        },
+        {
+          "name": "OREGON03 POOL",
+          "id": "p8949",
+          "code": "p8949"
+        },
+        {
+          "name": "THAILAND POOL",
+          "id": "p8950",
+          "code": "p8950"
+        },
+        {
+          "name": "INDIA POOL",
+          "id": "p8952",
+          "code": "p8952"
+        },
+        {
+          "name": "TAIPEI POOL",
+          "id": "p8953",
+          "code": "p8953"
+        },
+        {
+          "name": "CALIFORNIA POOL",
+          "id": "p8954",
+          "code": "p8954"
+        },
+        {
+          "name": "MOROCCO POOL",
+          "id": "p8955",
+          "code": "p8955"
+        },
+        {
+          "name": "CAMBODIA POOL",
+          "id": "p8956",
+          "code": "p8956"
+        },
+        {
+          "name": "CHINA POOL",
+          "id": "p8957",
+          "code": "p8957"
+        },
+        {
+          "name": "TAIWAN POOL",
+          "id": "p8958",
+          "code": "p8958"
+        },
+        {
+          "name": "SRILANKA POOL",
+          "id": "p8959",
+          "code": "p8959"
+        },
+        {
+          "name": "DUBAI POOL",
+          "id": "p8960",
+          "code": "p8960"
+        },
+        {
+          "name": "JAIPUR POOL",
+          "id": "p8961",
+          "code": "p8961"
+        },
+        {
+          "name": "VEGAS POOL",
+          "id": "p8962",
+          "code": "p8962"
+        },
+        {
+          "name": "BRUNEI POOL",
+          "id": "p8963",
+          "code": "p8963"
+        },
+        {
+          "name": "ANDORRA POOL",
+          "id": "p8964",
+          "code": "p8964"
+        },
+        {
+          "name": "CAROLINADAY POOL",
+          "id": "p8965",
+          "code": "p8965"
+        },
+        {
+          "name": "HONGKONG",
+          "id": "p8966",
+          "code": "p8966"
+        },
+        {
+          "name": "SINGAPORE POOL",
+          "id": "p8967",
+          "code": "p8967"
+        },
+        {
+          "name": "SYDNEY",
+          "id": "p8968",
+          "code": "p8968"
+        },
+        {
+          "name": "HEAD TAIL",
+          "id": "m10",
+          "code": "m10"
+        },
+        {
+          "name": "RED WHITE",
+          "id": "m11",
+          "code": "m11"
+        },
+        {
+          "name": "BILLIARDS",
+          "id": "m13",
+          "code": "m13"
+        },
+        {
+          "name": "POKER DICE",
+          "id": "m14",
+          "code": "m14"
+        },
+        {
+          "name": "EUROPE POKER DICE",
+          "id": "m14b",
+          "code": "m14b"
+        },
+        {
+          "name": "GONG BALL",
+          "id": "m16",
+          "code": "m16"
+        },
+        {
+          "name": "SPIN SOCCER",
+          "id": "x1",
+          "code": "x1"
+        },
+        {
+          "name": "24D",
+          "id": "p6",
+          "code": "p6"
+        },
+        {
+          "name": "24D JACKPOT",
+          "id": "p6b",
+          "code": "p6b"
+        },
+        {
+          "name": "ROULETTE",
+          "id": "p7",
+          "code": "p7"
+        },
+        {
+          "name": "ROULETTE 2 - FAST",
+          "id": "p7b",
+          "code": "p7b"
+        },
+        {
+          "name": "BINGO ROULETTE",
+          "id": "p7c",
+          "code": "p7c"
+        },
+        {
+          "name": "EUROPE ROULETTE 1",
+          "id": "p7d",
+          "code": "p7d"
+        },
+        {
+          "name": "SOCCER ROULETTE",
+          "id": "p7e",
+          "code": "p7e"
+        },
+        {
+          "name": "BOUNCE ROULETTE",
+          "id": "p7f",
+          "code": "p7f"
+        },
+        {
+          "name": "EUROPE ROULETTE 2",
+          "id": "p7g",
+          "code": "p7g"
+        },
+        {
+          "name": "12D",
+          "id": "p9",
+          "code": "p9"
+        },
+        {
+          "name": "12D THUNDER",
+          "id": "p9b",
+          "code": "p9b"
+        },
+        {
+          "name": "SUWIT",
+          "id": "m19",
+          "code": "m19"
+        },
+        {
+          "name": "EUROPE SUWIT",
+          "id": "m19b",
+          "code": "m19b"
+        },
+        {
+          "name": "MONOPOLY",
+          "id": "m20",
+          "code": "m20"
+        },
+        {
+          "name": "BACCARAT",
+          "id": "m22",
+          "code": "m22"
+        },
+        {
+          "name": "EUROPE BACCARAT",
+          "id": "m22d",
+          "code": "m22d"
+        },
+        {
+          "name": "EUROPE BACCARAT 2",
+          "id": "m22f",
+          "code": "m22f"
+        },
+        {
+          "name": "DRAGON TIGER",
+          "id": "m23",
+          "code": "m23"
+        },
+        {
+          "name": "DRAGON TIGER WILD",
+          "id": "m23b",
+          "code": "m23b"
+        },
+        {
+          "name": "EUROPE DRAGON TIGER",
+          "id": "m23d",
+          "code": "m23d"
+        },
+        {
+          "name": "NIU NIU",
+          "id": "m24",
+          "code": "m24"
+        },
+        {
+          "name": "FANTAN",
+          "id": "m25",
+          "code": "m25"
+        },
+        {
+          "name": "RACE BALL",
+          "id": "m26",
+          "code": "m26"
+        },
+        {
+          "name": "SHIO FIGHTS",
+          "id": "m27",
+          "code": "m27"
+        },
+        {
+          "name": "IDN 4 STAND",
+          "id": "m28",
+          "code": "m28"
+        },
+        {
+          "name": "IDN 4 STAND 2",
+          "id": "m28b",
+          "code": "m28b"
+        },
+        {
+          "name": "3D SHIO",
+          "id": "m29",
+          "code": "m29"
+        },
+        {
+          "name": "5D BALL",
+          "id": "m30",
+          "code": "m30"
+        },
+        {
+          "name": "SICBO BALL - FAST",
+          "id": "m31",
+          "code": "m31"
+        },
+        {
+          "name": "GONG BALL JITU",
+          "id": "m33",
+          "code": "m33"
+        },
+        {
+          "name": "48D",
+          "id": "m35",
+          "code": "m35"
+        },
+        {
+          "name": "BINGO SICBO",
+          "id": "m37",
+          "code": "m37"
+        },
+        {
+          "name": "DUEL DICE",
+          "id": "m39",
+          "code": "m39"
+        },
+        {
+          "name": "XOC DIA",
+          "id": "m40",
+          "code": "m40"
+        },
+        {
+          "name": "DOMINO LIVE",
+          "id": "m41",
+          "code": "m41"
+        },
+        {
+          "name": "GRAND PRIX",
+          "id": "m42",
+          "code": "m42"
+        },
+        {
+          "name": "NEW GRAND PRIX",
+          "id": "m42b",
+          "code": "m42b"
+        },
+        {
+          "name": "6D COLOR",
+          "id": "m43",
+          "code": "m43"
+        },
+        {
+          "name": "9 PUTTS",
+          "id": "m45",
+          "code": "m45"
+        },
+        {
+          "name": "EUROPE CEME",
+          "id": "m46",
+          "code": "m46"
+        },
+        {
+          "name": "PHOENIX VS DRAGON",
+          "id": "m48",
+          "code": "m48"
+        },
+        {
+          "name": "CHECKMATE RUSH",
+          "id": "m49",
+          "code": "m49"
+        },
+        {
+          "name": "LIVE PLINKO",
+          "id": "m500",
+          "code": "m500"
+        },
+        {
+          "name": "TOTO MACAO 5D",
+          "id": "m51",
+          "code": "m51"
+        },
+        {
+          "name": "24DSPIN",
+          "id": "m6",
+          "code": "m6"
+        },
+        {
+          "name": "OGLOK",
+          "id": "m7",
+          "code": "m7"
+        },
+        {
+          "name": "DICE 6",
+          "id": "m8",
+          "code": "m8"
+        },
+        {
+          "name": "KING KONG 4D",
+          "id": "m83",
+          "code": "m83"
+        },
+        {
+          "name": "DICE 6 FEVER",
+          "id": "m8b",
+          "code": "m8b"
+        },
+        {
+          "name": "SICBO DICE",
+          "id": "p12",
+          "code": "p12"
+        }
+      ],
+      "connectionStatus": "unverified",
+      "syncStatus": "not_configured",
+      "hasSession": false,
+      "note": "Siap. Tinggal update URL agent + Session Agent di dashboard Railway."
+    },
+    {
+      "id": "d18d9637-2791-4bd3-a194-e1edb01b202b",
+      "name": "SITOTO",
+      "url": "https://sitotopola.com/",
+      "markets": [
+        {
+          "name": "JAKARTA1400 POOL",
+          "id": "p79842",
+          "code": "p79842"
+        },
+        {
+          "name": "JAKARTA2330 POOL",
+          "id": "p79843",
+          "code": "p79843"
+        },
+        {
+          "name": "TOTOMALI1530 POOL",
+          "id": "p79844",
+          "code": "p79844"
+        },
+        {
+          "name": "TOTOMALI2030 POOL",
+          "id": "p79845",
+          "code": "p79845"
+        },
+        {
+          "name": "TOTOMALI2330 POOL",
+          "id": "p79846",
+          "code": "p79846"
+        },
+        {
+          "name": "JOWO2100 POOL",
+          "id": "p79858",
+          "code": "p79858"
+        },
+        {
+          "name": "JOWO0900 POOL",
+          "id": "p79859",
+          "code": "p79859"
+        },
+        {
+          "name": "PCSO POOL",
+          "id": "p79977",
+          "code": "p79977"
+        },
+        {
+          "name": "4DTOTOMACAU POOL",
+          "id": "m17",
+          "code": "m17"
+        },
+        {
+          "name": "SYDNEY",
+          "id": "p26674",
+          "code": "p26674"
+        },
+        {
+          "name": "SINGAPORE POOL",
+          "id": "p26675",
+          "code": "p26675"
+        },
+        {
+          "name": "HONGKONG",
+          "id": "p26676",
+          "code": "p26676"
+        },
+        {
+          "name": "CAROLINADAY POOL",
+          "id": "p26677",
+          "code": "p26677"
+        },
+        {
+          "name": "ANDORRA POOL",
+          "id": "p26678",
+          "code": "p26678"
+        },
+        {
+          "name": "BRUNEI POOL",
+          "id": "p26679",
+          "code": "p26679"
+        },
+        {
+          "name": "VEGAS POOL",
+          "id": "p26680",
+          "code": "p26680"
+        },
+        {
+          "name": "JAIPUR POOL",
+          "id": "p26681",
+          "code": "p26681"
+        },
+        {
+          "name": "DUBAI POOL",
+          "id": "p26682",
+          "code": "p26682"
+        },
+        {
+          "name": "SRILANKA POOL",
+          "id": "p26683",
+          "code": "p26683"
+        },
+        {
+          "name": "TAIWAN POOL",
+          "id": "p26684",
+          "code": "p26684"
+        },
+        {
+          "name": "CHINA POOL",
+          "id": "p26685",
+          "code": "p26685"
+        },
+        {
+          "name": "CAMBODIA POOL",
+          "id": "p26686",
+          "code": "p26686"
+        },
+        {
+          "name": "MOROCCO POOL",
+          "id": "p26687",
+          "code": "p26687"
+        },
+        {
+          "name": "CALIFORNIA POOL",
+          "id": "p26688",
+          "code": "p26688"
+        },
+        {
+          "name": "TAIPEI POOL",
+          "id": "p26689",
+          "code": "p26689"
+        },
+        {
+          "name": "INDIA POOL",
+          "id": "p26690",
+          "code": "p26690"
+        },
+        {
+          "name": "THAILAND POOL",
+          "id": "p26692",
+          "code": "p26692"
+        },
+        {
+          "name": "OREGON03 POOL",
+          "id": "p26693",
+          "code": "p26693"
+        },
+        {
+          "name": "OREGON09 POOL",
+          "id": "p26694",
+          "code": "p26694"
+        },
+        {
+          "name": "OREGON12 POOL",
+          "id": "p26695",
+          "code": "p26695"
+        },
+        {
+          "name": "OREGON06 POOL",
+          "id": "p26696",
+          "code": "p26696"
+        },
+        {
+          "name": "VIETNAM POOL",
+          "id": "p26697",
+          "code": "p26697"
+        },
+        {
+          "name": "NEVADA POOL",
+          "id": "p26698",
+          "code": "p26698"
+        },
+        {
+          "name": "POIPET12 POOL",
+          "id": "p26699",
+          "code": "p26699"
+        },
+        {
+          "name": "POIPET15 POOL",
+          "id": "p26700",
+          "code": "p26700"
+        },
+        {
+          "name": "POIPET19 POOL",
+          "id": "p26701",
+          "code": "p26701"
+        },
+        {
+          "name": "POIPET22 POOL",
+          "id": "p26702",
+          "code": "p26702"
+        },
+        {
+          "name": "KENTUCKYMID POOL",
+          "id": "p26703",
+          "code": "p26703"
+        },
+        {
+          "name": "FLORIDAMID POOL",
+          "id": "p26704",
+          "code": "p26704"
+        },
+        {
+          "name": "NEWYORKMID POOL",
+          "id": "p26705",
+          "code": "p26705"
+        },
+        {
+          "name": "FLORIDAEVE POOL",
+          "id": "p26706",
+          "code": "p26706"
+        },
+        {
+          "name": "NEWYORKEVE POOL",
+          "id": "p26707",
+          "code": "p26707"
+        },
+        {
+          "name": "KENTUCKYEVE POOL",
+          "id": "p26708",
+          "code": "p26708"
+        },
+        {
+          "name": "CAROLINAEVE POOL",
+          "id": "p26709",
+          "code": "p26709"
+        },
+        {
+          "name": "JEPANG POOL",
+          "id": "p53779",
+          "code": "p53779"
+        },
+        {
+          "name": "HEADTAIL",
+          "id": "m10",
+          "code": "m10"
+        },
+        {
+          "name": "REDWHITE",
+          "id": "m11",
+          "code": "m11"
+        },
+        {
+          "name": "BILLIARDS",
+          "id": "m13",
+          "code": "m13"
+        },
+        {
+          "name": "POKERDICE",
+          "id": "m14",
+          "code": "m14"
+        },
+        {
+          "name": "EUROPE POKER DICE",
+          "id": "m14b",
+          "code": "m14b"
+        },
+        {
+          "name": "GONGBALL",
+          "id": "m16",
+          "code": "m16"
+        },
+        {
+          "name": "SPIN SOCCER",
+          "id": "x1",
+          "code": "x1"
+        },
+        {
+          "name": "ROULETTE2-FAST",
+          "id": "p7b",
+          "code": "p7b"
+        },
+        {
+          "name": "BINGOROULETTE",
+          "id": "p7c",
+          "code": "p7c"
+        },
+        {
+          "name": "EUROPEROULETTE1",
+          "id": "p7d",
+          "code": "p7d"
+        },
+        {
+          "name": "SOCCER ROULETTE",
+          "id": "p7e",
+          "code": "p7e"
+        },
+        {
+          "name": "BOUNCE ROULETTE",
+          "id": "p7f",
+          "code": "p7f"
+        },
+        {
+          "name": "EUROPE ROULETTE 2",
+          "id": "p7g",
+          "code": "p7g"
+        },
+        {
+          "name": "12D",
+          "id": "p9",
+          "code": "p9"
+        },
+        {
+          "name": "12DTHUNDER",
+          "id": "p9b",
+          "code": "p9b"
+        },
+        {
+          "name": "24D",
+          "id": "p6",
+          "code": "p6"
+        },
+        {
+          "name": "24DJACKPOT",
+          "id": "p6b",
+          "code": "p6b"
+        },
+        {
+          "name": "ROULETTE",
+          "id": "p7",
+          "code": "p7"
+        },
+        {
+          "name": "SUWIT",
+          "id": "m19",
+          "code": "m19"
+        },
+        {
+          "name": "EUROPE SUWIT",
+          "id": "m19b",
+          "code": "m19b"
+        },
+        {
+          "name": "MONOPOLY",
+          "id": "m20",
+          "code": "m20"
+        },
+        {
+          "name": "BACCARAT",
+          "id": "m22",
+          "code": "m22"
+        },
+        {
+          "name": "EUROPEBACCARAT",
+          "id": "m22d",
+          "code": "m22d"
+        },
+        {
+          "name": "EUROPE BACCARAT 2",
+          "id": "m22f",
+          "code": "m22f"
+        },
+        {
+          "name": "DRAGONTIGER",
+          "id": "m23",
+          "code": "m23"
+        },
+        {
+          "name": "DRAGONTIGERWILD",
+          "id": "m23b",
+          "code": "m23b"
+        },
+        {
+          "name": "EUROPE DRAGON TIGER",
+          "id": "m23d",
+          "code": "m23d"
+        },
+        {
+          "name": "NIUNIU",
+          "id": "m24",
+          "code": "m24"
+        },
+        {
+          "name": "FANTAN",
+          "id": "m25",
+          "code": "m25"
+        },
+        {
+          "name": "RACEBALL",
+          "id": "m26",
+          "code": "m26"
+        },
+        {
+          "name": "SHIOFIGHTS",
+          "id": "m27",
+          "code": "m27"
+        },
+        {
+          "name": "IDN4STAND",
+          "id": "m28",
+          "code": "m28"
+        },
+        {
+          "name": "IDN4STAND2",
+          "id": "m28b",
+          "code": "m28b"
+        },
+        {
+          "name": "3DSHIO",
+          "id": "m29",
+          "code": "m29"
+        },
+        {
+          "name": "5DBALL",
+          "id": "m30",
+          "code": "m30"
+        },
+        {
+          "name": "SICBOBALL-FAST",
+          "id": "m31",
+          "code": "m31"
+        },
+        {
+          "name": "GONGBALLJITU",
+          "id": "m33",
+          "code": "m33"
+        },
+        {
+          "name": "48D",
+          "id": "m35",
+          "code": "m35"
+        },
+        {
+          "name": "BINGOSICBO",
+          "id": "m37",
+          "code": "m37"
+        },
+        {
+          "name": "DUELDICE",
+          "id": "m39",
+          "code": "m39"
+        },
+        {
+          "name": "XOCDIA",
+          "id": "m40",
+          "code": "m40"
+        },
+        {
+          "name": "DOMINOLIVE",
+          "id": "m41",
+          "code": "m41"
+        },
+        {
+          "name": "GRANDPRIX",
+          "id": "m42",
+          "code": "m42"
+        },
+        {
+          "name": "NEW GRAND PRIX",
+          "id": "m42b",
+          "code": "m42b"
+        },
+        {
+          "name": "6DCOLOR",
+          "id": "m43",
+          "code": "m43"
+        },
+        {
+          "name": "9 PUTTS",
+          "id": "m45",
+          "code": "m45"
+        },
+        {
+          "name": "EUROPE CEME",
+          "id": "m46",
+          "code": "m46"
+        },
+        {
+          "name": "PHOENIX VS DRAGON",
+          "id": "m48",
+          "code": "m48"
+        },
+        {
+          "name": "CHECKMATE RUSH",
+          "id": "m49",
+          "code": "m49"
+        },
+        {
+          "name": "LIVE PLINKO",
+          "id": "m500",
+          "code": "m500"
+        },
+        {
+          "name": "TOTOMACAO5D",
+          "id": "m51",
+          "code": "m51"
+        },
+        {
+          "name": "24DSPIN",
+          "id": "m6",
+          "code": "m6"
+        },
+        {
+          "name": "OGLOK",
+          "id": "m7",
+          "code": "m7"
+        },
+        {
+          "name": "DICE6",
+          "id": "m8",
+          "code": "m8"
+        },
+        {
+          "name": "KING KONG 4D",
+          "id": "m83",
+          "code": "m83"
+        },
+        {
+          "name": "DICE6FEVER",
+          "id": "m8b",
+          "code": "m8b"
+        },
+        {
+          "name": "SICBO DICE",
+          "id": "p12",
+          "code": "p12"
+        }
+      ],
+      "connectionStatus": "unverified",
+      "syncStatus": "not_configured",
+      "hasSession": false,
+      "note": "Siap. Tinggal update URL agent + Session Agent di dashboard Railway."
+    }
+  ],
+  "results": [],
+  "audits": [],
+  "authSessions": {},
+  "marketRecords": [],
+  "ptReports": [],
+  "agentPtJobs": []
+}

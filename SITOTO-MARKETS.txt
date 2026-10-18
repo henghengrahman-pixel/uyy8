@@ -1,0 +1,107 @@
+# Kode Pasaran Togel SITOTO (dari HTML site)
+# Digunakan untuk konfigurasi Website Manager / Agent
+
+JAKARTA1400 POOL               p79842
+JAKARTA2330 POOL               p79843
+TOTOMALI1530 POOL              p79844
+TOTOMALI2030 POOL              p79845
+TOTOMALI2330 POOL              p79846
+JOWO2100 POOL                  p79858
+JOWO0900 POOL                  p79859
+PCSO POOL                      p79977
+4DTOTOMACAU POOL               m17
+SYDNEY                         p26674
+SINGAPORE POOL                 p26675
+HONGKONG                       p26676
+CAROLINADAY POOL               p26677
+ANDORRA POOL                   p26678
+BRUNEI POOL                    p26679
+VEGAS POOL                     p26680
+JAIPUR POOL                    p26681
+DUBAI POOL                     p26682
+SRILANKA POOL                  p26683
+TAIWAN POOL                    p26684
+CHINA POOL                     p26685
+CAMBODIA POOL                  p26686
+MOROCCO POOL                   p26687
+CALIFORNIA POOL                p26688
+TAIPEI POOL                    p26689
+INDIA POOL                     p26690
+THAILAND POOL                  p26692
+OREGON03 POOL                  p26693
+OREGON09 POOL                  p26694
+OREGON12 POOL                  p26695
+OREGON06 POOL                  p26696
+VIETNAM POOL                   p26697
+NEVADA POOL                    p26698
+POIPET12 POOL                  p26699
+POIPET15 POOL                  p26700
+POIPET19 POOL                  p26701
+POIPET22 POOL                  p26702
+KENTUCKYMID POOL               p26703
+FLORIDAMID POOL                p26704
+NEWYORKMID POOL                p26705
+FLORIDAEVE POOL                p26706
+NEWYORKEVE POOL                p26707
+KENTUCKYEVE POOL               p26708
+CAROLINAEVE POOL               p26709
+JEPANG POOL                    p53779
+
+# Live / Minigame
+HEADTAIL                       m10
+REDWHITE                       m11
+BILLIARDS                      m13
+POKERDICE                      m14
+EUROPE POKER DICE              m14b
+GONGBALL                       m16
+SPIN SOCCER                    x1
+ROULETTE2-FAST                 p7b
+BINGOROULETTE                  p7c
+EUROPEROULETTE1                p7d
+SOCCER ROULETTE                p7e
+BOUNCE ROULETTE                p7f
+EUROPE ROULETTE 2              p7g
+12D                            p9
+12DTHUNDER                     p9b
+24D                            p6
+24DJACKPOT                     p6b
+ROULETTE                       p7
+SUWIT                          m19
+EUROPE SUWIT                   m19b
+MONOPOLY                       m20
+BACCARAT                       m22
+EUROPEBACCARAT                 m22d
+EUROPE BACCARAT 2              m22f
+DRAGONTIGER                    m23
+DRAGONTIGERWILD                m23b
+EUROPE DRAGON TIGER            m23d
+NIUNIU                         m24
+FANTAN                         m25
+RACEBALL                       m26
+SHIOFIGHTS                     m27
+IDN4STAND                      m28
+IDN4STAND2                     m28b
+3DSHIO                         m29
+5DBALL                         m30
+SICBOBALL-FAST                 m31
+GONGBALLJITU                   m33
+48D                            m35
+BINGOSICBO                     m37
+DUELDICE                       m39
+XOCDIA                         m40
+DOMINOLIVE                     m41
+GRANDPRIX                      m42
+NEW GRAND PRIX                 m42b
+6DCOLOR                        m43
+9 PUTTS                        m45
+EUROPE CEME                    m46
+PHOENIX VS DRAGON              m48
+CHECKMATE RUSH                 m49
+LIVE PLINKO                    m500
+TOTOMACAO5D                    m51
+24DSPIN                        m6
+OGLOK                          m7
+DICE6                          m8
+KING KONG 4D                   m83
+DICE6FEVER                     m8b
+SICBO DICE                     p12
