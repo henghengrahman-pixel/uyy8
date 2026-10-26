@@ -1,0 +1,107 @@
+# Kode Pasaran Togel SOSMEDTOTO (dari HTML site)
+# Digunakan untuk konfigurasi Website Manager / Agent
+
+JAKARTA1400 POOL               p17100
+JAKARTA2330 POOL               p17101
+TOTOMALI1530 POOL              p17102
+TOTOMALI2030 POOL              p17103
+TOTOMALI2330 POOL              p17104
+JOWO0900 POOL                  p17130
+JOWO2100 POOL                  p17131
+PCSO POOL                      p17909
+4D TOTO MACAU POOL             m17
+JEPANG POOL                    p8932
+CAROLINAEVE POOL               p8933
+KENTUCKYEVE POOL               p8934
+NEWYORKEVE POOL                p8935
+FLORIDAEVE POOL                p8936
+NEWYORKMID POOL                p8937
+FLORIDAMID POOL                p8938
+KENTUCKYMID POOL               p8939
+POIPET22 POOL                  p8940
+POIPET19 POOL                  p8941
+POIPET15 POOL                  p8942
+POIPET12 POOL                  p8943
+NEVADA POOL                    p8944
+VIETNAM POOL                   p8945
+OREGON06 POOL                  p8946
+OREGON12 POOL                  p8947
+OREGON09 POOL                  p8948
+OREGON03 POOL                  p8949
+THAILAND POOL                  p8950
+INDIA POOL                     p8952
+TAIPEI POOL                    p8953
+CALIFORNIA POOL                p8954
+MOROCCO POOL                   p8955
+CAMBODIA POOL                  p8956
+CHINA POOL                     p8957
+TAIWAN POOL                    p8958
+SRILANKA POOL                  p8959
+DUBAI POOL                     p8960
+JAIPUR POOL                    p8961
+VEGAS POOL                     p8962
+BRUNEI POOL                    p8963
+ANDORRA POOL                   p8964
+CAROLINADAY POOL               p8965
+HONGKONG                       p8966
+SINGAPORE POOL                 p8967
+SYDNEY                         p8968
+
+# Live / Minigame
+HEAD TAIL                      m10
+RED WHITE                      m11
+BILLIARDS                      m13
+POKER DICE                     m14
+EUROPE POKER DICE              m14b
+GONG BALL                      m16
+SPIN SOCCER                    x1
+24D                            p6
+24D JACKPOT                    p6b
+ROULETTE                       p7
+ROULETTE 2 - FAST              p7b
+BINGO ROULETTE                 p7c
+EUROPE ROULETTE 1              p7d
+SOCCER ROULETTE                p7e
+BOUNCE ROULETTE                p7f
+EUROPE ROULETTE 2              p7g
+12D                            p9
+12D THUNDER                    p9b
+SUWIT                          m19
+EUROPE SUWIT                   m19b
+MONOPOLY                       m20
+BACCARAT                       m22
+EUROPE BACCARAT                m22d
+EUROPE BACCARAT 2              m22f
+DRAGON TIGER                   m23
+DRAGON TIGER WILD              m23b
+EUROPE DRAGON TIGER            m23d
+NIU NIU                        m24
+FANTAN                         m25
+RACE BALL                      m26
+SHIO FIGHTS                    m27
+IDN 4 STAND                    m28
+IDN 4 STAND 2                  m28b
+3D SHIO                        m29
+5D BALL                        m30
+SICBO BALL - FAST              m31
+GONG BALL JITU                 m33
+48D                            m35
+BINGO SICBO                    m37
+DUEL DICE                      m39
+XOC DIA                        m40
+DOMINO LIVE                    m41
+GRAND PRIX                     m42
+NEW GRAND PRIX                 m42b
+6D COLOR                       m43
+9 PUTTS                        m45
+EUROPE CEME                    m46
+PHOENIX VS DRAGON              m48
+CHECKMATE RUSH                 m49
+LIVE PLINKO                    m500
+TOTO MACAO 5D                  m51
+24DSPIN                        m6
+OGLOK                          m7
+DICE 6                         m8
+KING KONG 4D                   m83
+DICE 6 FEVER                   m8b
+SICBO DICE                     p12
