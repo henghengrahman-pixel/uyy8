@@ -1,0 +1,25 @@
+Atlas Control Suite — Deploy ke Railway
+=========================================
+
+1. Push folder ini ke GitHub / Railway.
+2. Set environment variables di Railway:
+   - ADMIN_ID
+   - ADMIN_PASSWORD_HASH (generate dengan npm run setup)
+   - SESSION_SECRET
+   - SESSION_CREDENTIAL_KEY (64 hex chars)
+   - NODE_ENV=production
+   - MARKET_SYNC_MINUTES=15 (opsional)
+
+3. Volume: mount /data supaya store.json tidak hilang.
+
+4. Setelah jalan:
+   - Login dashboard
+   - Website Manager → edit tiap website
+   - Isi URL agent (HTTPS) + Session Agent (cookie)
+   - Klik Sync
+
+Sistem sudah mengunci pasaran:
+- Pilih pasaran → hanya yang kode-nya cocok yang diizinkan
+- Tidak akan tertukar pasaran
+
+Data awal (9 website + pasaran) sudah ada di data/store.json.
