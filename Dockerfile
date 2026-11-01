@@ -5,6 +5,7 @@ COPY package.json package-lock.json ./
 COPY server.js ./
 COPY market-feed.js ./
 COPY market-catalog.js ./
+COPY market-aliases.js ./
 COPY seed-reconcile.js ./
 COPY agent-readonly.js ./
 COPY pt-reports.js ./
